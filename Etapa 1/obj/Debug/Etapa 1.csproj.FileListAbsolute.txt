@@ -1,0 +1,816 @@
+D:\Etapa 1\Etapa 1\bin\Debug\Etapa 1.exe.config
+D:\Etapa 1\Etapa 1\bin\Debug\Etapa 1.exe
+D:\Etapa 1\Etapa 1\bin\Debug\Etapa 1.pdb
+D:\Etapa 1\Etapa 1\obj\Debug\Etapa 1.csprojResolveAssemblyReference.cache
+D:\Etapa 1\Etapa 1\obj\Debug\Etapa_1.MainForm.resources
+D:\Etapa 1\Etapa 1\obj\Debug\Etapa 1.csproj.GenerateResource.Cache
+D:\Etapa 1\Etapa 1\obj\Debug\Etapa 1.exe
+D:\Etapa 1\Etapa 1\obj\Debug\Etapa 1.pdb
+D:\Etapa 1\Etapa 1\obj\Debug\Etapa_1.VentanaPasos.resources
+E:\Archivos\Etapa 1 - copia\Etapa 1\bin\Debug\Etapa 1.exe.config
+E:\Archivos\Etapa 1 - copia\Etapa 1\bin\Debug\Etapa 1.exe
+E:\Archivos\Etapa 1 - copia\Etapa 1\bin\Debug\Etapa 1.pdb
+E:\Archivos\Etapa 1 - copia\Etapa 1\obj\Debug\Etapa 1.csprojResolveAssemblyReference.cache
+E:\Archivos\Etapa 1 - copia\Etapa 1\obj\Debug\Etapa_1.MainForm.resources
+E:\Archivos\Etapa 1 - copia\Etapa 1\obj\Debug\Etapa_1.VentanaPasos.resources
+E:\Archivos\Etapa 1 - copia\Etapa 1\obj\Debug\Etapa 1.csproj.GenerateResource.Cache
+E:\Archivos\Etapa 1 - copia\Etapa 1\obj\Debug\Etapa 1.exe
+E:\Archivos\Etapa 1 - copia\Etapa 1\obj\Debug\Etapa 1.pdb
+E:\Archivos\Etapa 1 (Final) - copia\Etapa 1\obj\Debug\Etapa 1.csprojResolveAssemblyReference.cache
+E:\Archivos\Etapa 1 (Final) - copia\Etapa 1\obj\Debug\Etapa_1.MainForm.resources
+E:\Archivos\Etapa 1 (Final) - copia\Etapa 1\obj\Debug\Etapa_1.VentanaPasos.resources
+E:\Archivos\Etapa 1 (Final) - copia\Etapa 1\obj\Debug\Etapa 1.csproj.GenerateResource.Cache
+E:\Archivos\Etapa 1 (Final) - copia\Etapa 1\obj\Debug\Etapa 1.exe
+E:\Archivos\Etapa 1 (Final) - copia\Etapa 1\bin\Debug\Etapa 1.exe.config
+E:\Archivos\Etapa 1 (Final) - copia\Etapa 1\bin\Debug\Etapa 1.exe
+E:\Archivos\Etapa 1 (Final) - copia\Etapa 1\bin\Debug\Etapa 1.pdb
+E:\Archivos\Etapa 1 (Final) - copia\Etapa 1\obj\Debug\Etapa 1.pdb
+D:\Archivos\Etapa 1 (Final)2.0\Etapa 1\bin\Debug\Etapa 1.exe.config
+D:\Archivos\Etapa 1 (Final)2.0\Etapa 1\bin\Debug\Etapa 1.exe
+D:\Archivos\Etapa 1 (Final)2.0\Etapa 1\bin\Debug\Etapa 1.pdb
+D:\Archivos\Etapa 1 (Final)2.0\Etapa 1\obj\Debug\Etapa 1.csprojResolveAssemblyReference.cache
+D:\Archivos\Etapa 1 (Final)2.0\Etapa 1\obj\Debug\Etapa_1.MainForm.resources
+D:\Archivos\Etapa 1 (Final)2.0\Etapa 1\obj\Debug\Etapa_1.VentanaPasos.resources
+D:\Archivos\Etapa 1 (Final)2.0\Etapa 1\obj\Debug\Etapa 1.csproj.GenerateResource.Cache
+D:\Archivos\Etapa 1 (Final)2.0\Etapa 1\obj\Debug\Etapa 1.exe
+D:\Archivos\Etapa 1 (Final)2.0\Etapa 1\obj\Debug\Etapa 1.pdb
+D:\Seminario de Algoritmia\1.-Actividad 1 Evolucion\Etapa 1 (Final)2.0(Entregado y pasado) - copia\Etapa 1\bin\Debug\Etapa 1.exe.config
+D:\Seminario de Algoritmia\1.-Actividad 1 Evolucion\Etapa 1 (Final)2.0(Entregado y pasado) - copia\Etapa 1\bin\Debug\Etapa 1.exe
+D:\Seminario de Algoritmia\1.-Actividad 1 Evolucion\Etapa 1 (Final)2.0(Entregado y pasado) - copia\Etapa 1\bin\Debug\Etapa 1.pdb
+D:\Seminario de Algoritmia\1.-Actividad 1 Evolucion\Etapa 1 (Final)2.0(Entregado y pasado) - copia\Etapa 1\obj\Debug\Etapa 1.csprojResolveAssemblyReference.cache
+D:\Seminario de Algoritmia\1.-Actividad 1 Evolucion\Etapa 1 (Final)2.0(Entregado y pasado) - copia\Etapa 1\obj\Debug\Etapa_1.MainForm.resources
+D:\Seminario de Algoritmia\1.-Actividad 1 Evolucion\Etapa 1 (Final)2.0(Entregado y pasado) - copia\Etapa 1\obj\Debug\Etapa_1.VentanaPasos.resources
+D:\Seminario de Algoritmia\1.-Actividad 1 Evolucion\Etapa 1 (Final)2.0(Entregado y pasado) - copia\Etapa 1\obj\Debug\Etapa 1.csproj.GenerateResource.Cache
+D:\Seminario de Algoritmia\1.-Actividad 1 Evolucion\Etapa 1 (Final)2.0(Entregado y pasado) - copia\Etapa 1\obj\Debug\Etapa 1.exe
+D:\Seminario de Algoritmia\1.-Actividad 1 Evolucion\Etapa 1 (Final)2.0(Entregado y pasado) - copia\Etapa 1\obj\Debug\Etapa 1.pdb
+D:\Seminario de Algoritmia\1.-Actividad 1 Evolucion\Etapa 1 (Final)2.0(Entregado y pasado)Arreglando errores\Etapa 1\bin\Debug\Etapa 1.exe.config
+D:\Seminario de Algoritmia\1.-Actividad 1 Evolucion\Etapa 1 (Final)2.0(Entregado y pasado)Arreglando errores\Etapa 1\bin\Debug\Etapa 1.exe
+D:\Seminario de Algoritmia\1.-Actividad 1 Evolucion\Etapa 1 (Final)2.0(Entregado y pasado)Arreglando errores\Etapa 1\bin\Debug\Etapa 1.pdb
+D:\Seminario de Algoritmia\1.-Actividad 1 Evolucion\Etapa 1 (Final)2.0(Entregado y pasado)Arreglando errores\Etapa 1\obj\Debug\Etapa 1.csprojResolveAssemblyReference.cache
+D:\Seminario de Algoritmia\1.-Actividad 1 Evolucion\Etapa 1 (Final)2.0(Entregado y pasado)Arreglando errores\Etapa 1\obj\Debug\Etapa_1.MainForm.resources
+D:\Seminario de Algoritmia\1.-Actividad 1 Evolucion\Etapa 1 (Final)2.0(Entregado y pasado)Arreglando errores\Etapa 1\obj\Debug\Etapa_1.VentanaPasos.resources
+D:\Seminario de Algoritmia\1.-Actividad 1 Evolucion\Etapa 1 (Final)2.0(Entregado y pasado)Arreglando errores\Etapa 1\obj\Debug\Etapa 1.csproj.GenerateResource.Cache
+D:\Seminario de Algoritmia\1.-Actividad 1 Evolucion\Etapa 1 (Final)2.0(Entregado y pasado)Arreglando errores\Etapa 1\obj\Debug\Etapa 1.exe
+D:\Seminario de Algoritmia\1.-Actividad 1 Evolucion\Etapa 1 (Final)2.0(Entregado y pasado)Arreglando errores\Etapa 1\obj\Debug\Etapa 1.pdb
+C:\Users\Usuario\Desktop\Etapa 2(14-02-2019)\Etapa 1\obj\Debug\Etapa 1.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Etapa 2(14-02-2019)\Etapa 1\obj\Debug\Etapa_1.MainForm.resources
+C:\Users\Usuario\Desktop\Etapa 2(14-02-2019)\Etapa 1\obj\Debug\Etapa 1.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\Etapa 2(14-02-2019)\Etapa 1\obj\Debug\Etapa 1.exe
+C:\Users\Usuario\Desktop\Etapa 2(14-02-2019)\Etapa 1\obj\Debug\Etapa 1.pdb
+C:\Users\Usuario\Desktop\Etapa 2(14-02-2019)\Etapa 1\bin\Debug\Etapa 1.exe.config
+C:\Users\Usuario\Desktop\Etapa 2(14-02-2019)\Etapa 1\bin\Debug\Etapa 1.exe
+C:\Users\Usuario\Desktop\Etapa 2(14-02-2019)\Etapa 1\bin\Debug\Etapa 1.pdb
+C:\Users\Usuario\Desktop\Etapa 2(3.0)\Etapa 1\obj\Debug\Etapa 1.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Etapa 2(3.0)\Etapa 1\obj\Debug\Etapa_1.MainForm.resources
+C:\Users\Usuario\Desktop\Etapa 2(3.0)\Etapa 1\obj\Debug\Etapa 1.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\Etapa 2(3.0)\Etapa 1\obj\Debug\Etapa 1.exe
+C:\Users\Usuario\Desktop\Etapa 2(3.0)\Etapa 1\obj\Debug\Etapa 1.pdb
+C:\Users\Usuario\Desktop\Etapa 2(3.0)\Etapa 1\bin\Debug\Etapa 1.exe.config
+C:\Users\Usuario\Desktop\Etapa 2(3.0)\Etapa 1\bin\Debug\Etapa 1.exe
+C:\Users\Usuario\Desktop\Etapa 2(3.0)\Etapa 1\bin\Debug\Etapa 1.pdb
+C:\Users\Usuario\Desktop\Etapa 2(4.0)\Etapa 1\bin\Debug\Etapa 1.exe.config
+C:\Users\Usuario\Desktop\Etapa 2(4.0)\Etapa 1\bin\Debug\Etapa 1.exe
+C:\Users\Usuario\Desktop\Etapa 2(4.0)\Etapa 1\bin\Debug\Etapa 1.pdb
+C:\Users\Usuario\Desktop\Etapa 2(4.0)\Etapa 1\obj\Debug\Etapa 1.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Etapa 2(4.0)\Etapa 1\obj\Debug\Etapa_1.MainForm.resources
+C:\Users\Usuario\Desktop\Etapa 2(4.0)\Etapa 1\obj\Debug\Etapa 1.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\Etapa 2(4.0)\Etapa 1\obj\Debug\Etapa 1.exe
+C:\Users\Usuario\Desktop\Etapa 2(4.0)\Etapa 1\obj\Debug\Etapa 1.pdb
+C:\Users\Usuario\Desktop\Etapa 2(5.0)\Etapa 1\bin\Debug\Etapa 1.exe.config
+C:\Users\Usuario\Desktop\Etapa 2(5.0)\Etapa 1\bin\Debug\Etapa 1.exe
+C:\Users\Usuario\Desktop\Etapa 2(5.0)\Etapa 1\bin\Debug\Etapa 1.pdb
+C:\Users\Usuario\Desktop\Etapa 2(5.0)\Etapa 1\obj\Debug\Etapa 1.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Etapa 2(5.0)\Etapa 1\obj\Debug\Etapa_1.MainForm.resources
+C:\Users\Usuario\Desktop\Etapa 2(5.0)\Etapa 1\obj\Debug\Etapa 1.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\Etapa 2(5.0)\Etapa 1\obj\Debug\Etapa 1.exe
+C:\Users\Usuario\Desktop\Etapa 2(5.0)\Etapa 1\obj\Debug\Etapa 1.pdb
+C:\Users\Usuario\Desktop\Etapa 2(6.0)\Etapa 1\bin\Debug\Etapa 1.exe.config
+C:\Users\Usuario\Desktop\Etapa 2(6.0)\Etapa 1\bin\Debug\Etapa 1.exe
+C:\Users\Usuario\Desktop\Etapa 2(6.0)\Etapa 1\bin\Debug\Etapa 1.pdb
+C:\Users\Usuario\Desktop\Etapa 2(6.0)\Etapa 1\obj\Debug\Etapa 1.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Etapa 2(6.0)\Etapa 1\obj\Debug\Etapa_1.MainForm.resources
+C:\Users\Usuario\Desktop\Etapa 2(6.0)\Etapa 1\obj\Debug\Etapa 1.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\Etapa 2(6.0)\Etapa 1\obj\Debug\Etapa 1.exe
+C:\Users\Usuario\Desktop\Etapa 2(6.0)\Etapa 1\obj\Debug\Etapa 1.pdb
+C:\Users\Usuario\Desktop\Etapa 2(7.0) - copia\Etapa 1\bin\Debug\Etapa 1.exe.config
+C:\Users\Usuario\Desktop\Etapa 2(7.0) - copia\Etapa 1\bin\Debug\Etapa 1.exe
+C:\Users\Usuario\Desktop\Etapa 2(7.0) - copia\Etapa 1\bin\Debug\Etapa 1.pdb
+C:\Users\Usuario\Desktop\Etapa 2(7.0) - copia\Etapa 1\obj\Debug\Etapa 1.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Etapa 2(7.0) - copia\Etapa 1\obj\Debug\Etapa_1.MainForm.resources
+C:\Users\Usuario\Desktop\Etapa 2(7.0) - copia\Etapa 1\obj\Debug\Etapa 1.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\Etapa 2(7.0) - copia\Etapa 1\obj\Debug\Etapa 1.exe
+C:\Users\Usuario\Desktop\Etapa 2(7.0) - copia\Etapa 1\obj\Debug\Etapa 1.pdb
+C:\Users\Usuario\Desktop\Etapa 2(8.0)\Etapa 1\bin\Debug\Etapa 1.exe.config
+C:\Users\Usuario\Desktop\Etapa 2(8.0)\Etapa 1\bin\Debug\Etapa 1.exe
+C:\Users\Usuario\Desktop\Etapa 2(8.0)\Etapa 1\bin\Debug\Etapa 1.pdb
+C:\Users\Usuario\Desktop\Etapa 2(8.0)\Etapa 1\obj\Debug\Etapa 1.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Etapa 2(8.0)\Etapa 1\obj\Debug\Etapa_1.MainForm.resources
+C:\Users\Usuario\Desktop\Etapa 2(8.0)\Etapa 1\obj\Debug\Etapa_1.VentanaTiempos.resources
+C:\Users\Usuario\Desktop\Etapa 2(8.0)\Etapa 1\obj\Debug\Etapa 1.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\Etapa 2(8.0)\Etapa 1\obj\Debug\Etapa 1.exe
+C:\Users\Usuario\Desktop\Etapa 2(8.0)\Etapa 1\obj\Debug\Etapa 1.pdb
+C:\Users\Usuario\Desktop\Etapa 2(9.0) - copia\Etapa 1\bin\Debug\Etapa 1.exe.config
+C:\Users\Usuario\Desktop\Etapa 2(9.0) - copia\Etapa 1\bin\Debug\Etapa 1.exe
+C:\Users\Usuario\Desktop\Etapa 2(9.0) - copia\Etapa 1\bin\Debug\Etapa 1.pdb
+C:\Users\Usuario\Desktop\Etapa 2(9.0) - copia\Etapa 1\obj\Debug\Etapa 1.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Etapa 2(9.0) - copia\Etapa 1\obj\Debug\Etapa_1.MainForm.resources
+C:\Users\Usuario\Desktop\Etapa 2(9.0) - copia\Etapa 1\obj\Debug\Etapa_1.VentanaTiempos.resources
+C:\Users\Usuario\Desktop\Etapa 2(9.0) - copia\Etapa 1\obj\Debug\Etapa 1.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\Etapa 2(9.0) - copia\Etapa 1\obj\Debug\Etapa 1.exe
+C:\Users\Usuario\Desktop\Etapa 2(9.0) - copia\Etapa 1\obj\Debug\Etapa 1.pdb
+D:\Archivos\Etapa 2(10.0)\Etapa 1\obj\Debug\Etapa 1.csprojResolveAssemblyReference.cache
+D:\Archivos\Etapa 2(10.0)\Etapa 1\obj\Debug\Etapa_1.MainForm.resources
+D:\Archivos\Etapa 2(10.0)\Etapa 1\obj\Debug\Etapa_1.VentanaTiempos.resources
+D:\Archivos\Etapa 2(10.0)\Etapa 1\obj\Debug\Etapa 1.csproj.GenerateResource.Cache
+D:\Archivos\Etapa 2(10.0)\Etapa 1\obj\Debug\Etapa 1.exe
+D:\Archivos\Etapa 2(10.0)\Etapa 1\bin\Debug\Etapa 1.exe.config
+D:\Archivos\Etapa 2(10.0)\Etapa 1\bin\Debug\Etapa 1.exe
+D:\Archivos\Etapa 2(10.0)\Etapa 1\bin\Debug\Etapa 1.pdb
+D:\Archivos\Etapa 2(10.0)\Etapa 1\obj\Debug\Etapa 1.pdb
+C:\Users\Usuario\Desktop\Etapa 2(10.0)\Etapa 1\bin\Debug\Etapa 1.exe.config
+C:\Users\Usuario\Desktop\Etapa 2(10.0)\Etapa 1\bin\Debug\Etapa 1.exe
+C:\Users\Usuario\Desktop\Etapa 2(10.0)\Etapa 1\bin\Debug\Etapa 1.pdb
+C:\Users\Usuario\Desktop\Etapa 2(10.0)\Etapa 1\obj\Debug\Etapa 1.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Etapa 2(10.0)\Etapa 1\obj\Debug\Etapa_1.MainForm.resources
+C:\Users\Usuario\Desktop\Etapa 2(10.0)\Etapa 1\obj\Debug\Etapa_1.VentanaTiempos.resources
+C:\Users\Usuario\Desktop\Etapa 2(10.0)\Etapa 1\obj\Debug\Etapa 1.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\Etapa 2(10.0)\Etapa 1\obj\Debug\Etapa 1.exe
+C:\Users\Usuario\Desktop\Etapa 2(10.0)\Etapa 1\obj\Debug\Etapa 1.pdb
+D:\Seminario de Algoritmia\Evolucion Etapa 2\Etapa 2(10.0)\Etapa 1\bin\Debug\Etapa 1.exe.config
+D:\Seminario de Algoritmia\Evolucion Etapa 2\Etapa 2(10.0)\Etapa 1\bin\Debug\Etapa 1.exe
+D:\Seminario de Algoritmia\Evolucion Etapa 2\Etapa 2(10.0)\Etapa 1\bin\Debug\Etapa 1.pdb
+D:\Seminario de Algoritmia\Evolucion Etapa 2\Etapa 2(10.0)\Etapa 1\obj\Debug\Etapa 1.csprojResolveAssemblyReference.cache
+D:\Seminario de Algoritmia\Evolucion Etapa 2\Etapa 2(10.0)\Etapa 1\obj\Debug\Etapa_1.MainForm.resources
+D:\Seminario de Algoritmia\Evolucion Etapa 2\Etapa 2(10.0)\Etapa 1\obj\Debug\Etapa_1.VentanaTiempos.resources
+D:\Seminario de Algoritmia\Evolucion Etapa 2\Etapa 2(10.0)\Etapa 1\obj\Debug\Etapa 1.csproj.GenerateResource.Cache
+D:\Seminario de Algoritmia\Evolucion Etapa 2\Etapa 2(10.0)\Etapa 1\obj\Debug\Etapa 1.exe
+D:\Seminario de Algoritmia\Evolucion Etapa 2\Etapa 2(10.0)\Etapa 1\obj\Debug\Etapa 1.pdb
+C:\Users\Usuario\Desktop\Etapa 3(1)\Etapa 1\bin\Debug\Etapa 1.exe.config
+C:\Users\Usuario\Desktop\Etapa 3(1)\Etapa 1\bin\Debug\Etapa 1.exe
+C:\Users\Usuario\Desktop\Etapa 3(1)\Etapa 1\bin\Debug\Etapa 1.pdb
+C:\Users\Usuario\Desktop\Etapa 3(1)\Etapa 1\obj\Debug\Etapa 1.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Etapa 3(1)\Etapa 1\obj\Debug\Etapa_1.MainForm.resources
+C:\Users\Usuario\Desktop\Etapa 3(1)\Etapa 1\obj\Debug\Etapa_1.VentanaTiempos.resources
+C:\Users\Usuario\Desktop\Etapa 3(1)\Etapa 1\obj\Debug\Etapa 1.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\Etapa 3(1)\Etapa 1\obj\Debug\Etapa 1.exe
+C:\Users\Usuario\Desktop\Etapa 3(1)\Etapa 1\obj\Debug\Etapa 1.pdb
+C:\Users\Usuario\Desktop\Etapa 3(2)\Etapa 1\bin\Debug\Etapa 1.exe.config
+C:\Users\Usuario\Desktop\Etapa 3(2)\Etapa 1\bin\Debug\Etapa 1.exe
+C:\Users\Usuario\Desktop\Etapa 3(2)\Etapa 1\bin\Debug\Etapa 1.pdb
+C:\Users\Usuario\Desktop\Etapa 3(2)\Etapa 1\obj\Debug\Etapa 1.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Etapa 3(2)\Etapa 1\obj\Debug\Etapa_1.MainForm.resources
+C:\Users\Usuario\Desktop\Etapa 3(2)\Etapa 1\obj\Debug\Etapa_1.VentanaTiempos.resources
+C:\Users\Usuario\Desktop\Etapa 3(2)\Etapa 1\obj\Debug\Etapa 1.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\Etapa 3(2)\Etapa 1\obj\Debug\Etapa 1.exe
+C:\Users\Usuario\Desktop\Etapa 3(2)\Etapa 1\obj\Debug\Etapa 1.pdb
+C:\Users\Usuario\Desktop\Etapa 3(3\Etapa 1\obj\Debug\Etapa 1.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Etapa 3(3\Etapa 1\obj\Debug\Etapa_1.MainForm.resources
+C:\Users\Usuario\Desktop\Etapa 3(3\Etapa 1\obj\Debug\Etapa_1.VentanaTiempos.resources
+C:\Users\Usuario\Desktop\Etapa 3(3\Etapa 1\obj\Debug\Etapa 1.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\Etapa 3(3\Etapa 1\obj\Debug\Etapa 1.exe
+C:\Users\Usuario\Desktop\Etapa 3(3\Etapa 1\bin\Debug\Etapa 1.exe.config
+C:\Users\Usuario\Desktop\Etapa 3(3\Etapa 1\bin\Debug\Etapa 1.exe
+C:\Users\Usuario\Desktop\Etapa 3(3\Etapa 1\bin\Debug\Etapa 1.pdb
+C:\Users\Usuario\Desktop\Etapa 3(3\Etapa 1\obj\Debug\Etapa 1.pdb
+C:\Users\Usuario\Desktop\Etapa 3(4)\Etapa 1\obj\Debug\Etapa 1.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Etapa 3(4)\Etapa 1\obj\Debug\Etapa_1.MainForm.resources
+C:\Users\Usuario\Desktop\Etapa 3(4)\Etapa 1\obj\Debug\Etapa_1.VentanaTiempos.resources
+C:\Users\Usuario\Desktop\Etapa 3(4)\Etapa 1\obj\Debug\Etapa 1.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\Etapa 3(4)\Etapa 1\obj\Debug\Etapa 1.exe
+C:\Users\Usuario\Desktop\Etapa 3(4)\Etapa 1\bin\Debug\Etapa 1.exe.config
+C:\Users\Usuario\Desktop\Etapa 3(4)\Etapa 1\bin\Debug\Etapa 1.exe
+C:\Users\Usuario\Desktop\Etapa 3(4)\Etapa 1\bin\Debug\Etapa 1.pdb
+C:\Users\Usuario\Desktop\Etapa 3(4)\Etapa 1\obj\Debug\Etapa 1.pdb
+C:\Users\Usuario\Desktop\Etapa 3(5)\Etapa 1\bin\Debug\Etapa 1.exe.config
+C:\Users\Usuario\Desktop\Etapa 3(5)\Etapa 1\bin\Debug\Etapa 1.exe
+C:\Users\Usuario\Desktop\Etapa 3(5)\Etapa 1\bin\Debug\Etapa 1.pdb
+C:\Users\Usuario\Desktop\Etapa 3(5)\Etapa 1\obj\Debug\Etapa 1.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Etapa 3(5)\Etapa 1\obj\Debug\Etapa_1.MainForm.resources
+C:\Users\Usuario\Desktop\Etapa 3(5)\Etapa 1\obj\Debug\Etapa_1.VentanaTiempos.resources
+C:\Users\Usuario\Desktop\Etapa 3(5)\Etapa 1\obj\Debug\Etapa 1.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\Etapa 3(5)\Etapa 1\obj\Debug\Etapa 1.exe
+C:\Users\Usuario\Desktop\Etapa 3(5)\Etapa 1\obj\Debug\Etapa 1.pdb
+C:\Users\Usuario\Desktop\Etapa 3(5)\Etapa 1\obj\Debug\Etapa_1.VentanaMejorAgente.resources
+C:\Users\Usuario\Desktop\Etapa 3(6)\Etapa 1\bin\Debug\Etapa 1.exe.config
+C:\Users\Usuario\Desktop\Etapa 3(6)\Etapa 1\bin\Debug\Etapa 1.exe
+C:\Users\Usuario\Desktop\Etapa 3(6)\Etapa 1\bin\Debug\Etapa 1.pdb
+C:\Users\Usuario\Desktop\Etapa 3(6)\Etapa 1\obj\Debug\Etapa 1.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Etapa 3(6)\Etapa 1\obj\Debug\Etapa_1.MainForm.resources
+C:\Users\Usuario\Desktop\Etapa 3(6)\Etapa 1\obj\Debug\Etapa_1.VentanaMejorAgente.resources
+C:\Users\Usuario\Desktop\Etapa 3(6)\Etapa 1\obj\Debug\Etapa_1.VentanaTiempos.resources
+C:\Users\Usuario\Desktop\Etapa 3(6)\Etapa 1\obj\Debug\Etapa 1.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\Etapa 3(6)\Etapa 1\obj\Debug\Etapa 1.exe
+C:\Users\Usuario\Desktop\Etapa 3(6)\Etapa 1\obj\Debug\Etapa 1.pdb
+D:\Archivos\Etapa 3(6)\Etapa 1\bin\Debug\Etapa 1.exe.config
+D:\Archivos\Etapa 3(6)\Etapa 1\bin\Debug\Etapa 1.exe
+D:\Archivos\Etapa 3(6)\Etapa 1\bin\Debug\Etapa 1.pdb
+D:\Archivos\Etapa 3(6)\Etapa 1\obj\Debug\Etapa 1.csprojResolveAssemblyReference.cache
+D:\Archivos\Etapa 3(6)\Etapa 1\obj\Debug\Etapa_1.MainForm.resources
+D:\Archivos\Etapa 3(6)\Etapa 1\obj\Debug\Etapa_1.VentanaMejorAgente.resources
+D:\Archivos\Etapa 3(6)\Etapa 1\obj\Debug\Etapa_1.VentanaTiempos.resources
+D:\Archivos\Etapa 3(6)\Etapa 1\obj\Debug\Etapa 1.csproj.GenerateResource.Cache
+D:\Archivos\Etapa 3(6)\Etapa 1\obj\Debug\Etapa 1.exe
+D:\Archivos\Etapa 3(6)\Etapa 1\obj\Debug\Etapa 1.pdb
+D:\Archivos\Etapa 3(6) - copia\Etapa 1\bin\Debug\Etapa 1.exe.config
+D:\Archivos\Etapa 3(6) - copia\Etapa 1\bin\Debug\Etapa 1.exe
+D:\Archivos\Etapa 3(6) - copia\Etapa 1\bin\Debug\Etapa 1.pdb
+D:\Archivos\Etapa 3(6) - copia\Etapa 1\obj\Debug\Etapa 1.csprojResolveAssemblyReference.cache
+D:\Archivos\Etapa 3(6) - copia\Etapa 1\obj\Debug\Etapa_1.MainForm.resources
+D:\Archivos\Etapa 3(6) - copia\Etapa 1\obj\Debug\Etapa_1.VentanaMejorAgente.resources
+D:\Archivos\Etapa 3(6) - copia\Etapa 1\obj\Debug\Etapa_1.VentanaTiempos.resources
+D:\Archivos\Etapa 3(6) - copia\Etapa 1\obj\Debug\Etapa 1.csproj.GenerateResource.Cache
+D:\Archivos\Etapa 3(6) - copia\Etapa 1\obj\Debug\Etapa 1.exe
+D:\Archivos\Etapa 3(6) - copia\Etapa 1\obj\Debug\Etapa 1.pdb
+D:\Seminario de Algoritmia\3.-Actividad 3 Evolucion\Etapa 3(7)\Etapa 1\bin\Debug\Etapa 1.exe.config
+D:\Seminario de Algoritmia\3.-Actividad 3 Evolucion\Etapa 3(7)\Etapa 1\bin\Debug\Etapa 1.exe
+D:\Seminario de Algoritmia\3.-Actividad 3 Evolucion\Etapa 3(7)\Etapa 1\bin\Debug\Etapa 1.pdb
+D:\Seminario de Algoritmia\3.-Actividad 3 Evolucion\Etapa 3(7)\Etapa 1\obj\Debug\Etapa 1.csprojResolveAssemblyReference.cache
+D:\Seminario de Algoritmia\3.-Actividad 3 Evolucion\Etapa 3(7)\Etapa 1\obj\Debug\Etapa_1.MainForm.resources
+D:\Seminario de Algoritmia\3.-Actividad 3 Evolucion\Etapa 3(7)\Etapa 1\obj\Debug\Etapa_1.VentanaMejorAgente.resources
+D:\Seminario de Algoritmia\3.-Actividad 3 Evolucion\Etapa 3(7)\Etapa 1\obj\Debug\Etapa_1.VentanaTiempos.resources
+D:\Seminario de Algoritmia\3.-Actividad 3 Evolucion\Etapa 3(7)\Etapa 1\obj\Debug\Etapa 1.csproj.GenerateResource.Cache
+D:\Seminario de Algoritmia\3.-Actividad 3 Evolucion\Etapa 3(7)\Etapa 1\obj\Debug\Etapa 1.exe
+D:\Seminario de Algoritmia\3.-Actividad 3 Evolucion\Etapa 3(7)\Etapa 1\obj\Debug\Etapa 1.pdb
+D:\Seminario de Algoritmia\3.-Actividad 3 Evolucion\Etapa 3(8)\Etapa 1\bin\Debug\Etapa 1.exe.config
+D:\Seminario de Algoritmia\3.-Actividad 3 Evolucion\Etapa 3(8)\Etapa 1\bin\Debug\Etapa 1.exe
+D:\Seminario de Algoritmia\3.-Actividad 3 Evolucion\Etapa 3(8)\Etapa 1\bin\Debug\Etapa 1.pdb
+D:\Seminario de Algoritmia\3.-Actividad 3 Evolucion\Etapa 3(8)\Etapa 1\obj\Debug\Etapa 1.csprojResolveAssemblyReference.cache
+D:\Seminario de Algoritmia\3.-Actividad 3 Evolucion\Etapa 3(8)\Etapa 1\obj\Debug\Etapa_1.MainForm.resources
+D:\Seminario de Algoritmia\3.-Actividad 3 Evolucion\Etapa 3(8)\Etapa 1\obj\Debug\Etapa_1.VentanaMejorAgente.resources
+D:\Seminario de Algoritmia\3.-Actividad 3 Evolucion\Etapa 3(8)\Etapa 1\obj\Debug\Etapa_1.VentanaTiempos.resources
+D:\Seminario de Algoritmia\3.-Actividad 3 Evolucion\Etapa 3(8)\Etapa 1\obj\Debug\Etapa 1.csproj.GenerateResource.Cache
+D:\Seminario de Algoritmia\3.-Actividad 3 Evolucion\Etapa 3(8)\Etapa 1\obj\Debug\Etapa 1.exe
+D:\Seminario de Algoritmia\3.-Actividad 3 Evolucion\Etapa 3(8)\Etapa 1\obj\Debug\Etapa 1.pdb
+C:\Users\Usuario\Desktop\Etapa 4(1)\Etapa 1\obj\Debug\Etapa 1.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Etapa 4(1)\Etapa 1\obj\Debug\Etapa_1.MainForm.resources
+C:\Users\Usuario\Desktop\Etapa 4(1)\Etapa 1\obj\Debug\Etapa_1.VentanaMejorAgente.resources
+C:\Users\Usuario\Desktop\Etapa 4(1)\Etapa 1\obj\Debug\Etapa_1.VentanaTiempos.resources
+C:\Users\Usuario\Desktop\Etapa 4(1)\Etapa 1\obj\Debug\Etapa 1.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\Etapa 4(1)\Etapa 1\obj\Debug\Etapa 1.exe
+C:\Users\Usuario\Desktop\Etapa 4(1)\Etapa 1\bin\Debug\Etapa 1.exe.config
+C:\Users\Usuario\Desktop\Etapa 4(1)\Etapa 1\bin\Debug\Etapa 1.exe
+C:\Users\Usuario\Desktop\Etapa 4(1)\Etapa 1\bin\Debug\Etapa 1.pdb
+C:\Users\Usuario\Desktop\Etapa 4(1)\Etapa 1\obj\Debug\Etapa 1.pdb
+C:\Users\Usuario\Desktop\Etapa 4(2)\Etapa 1\bin\Debug\Etapa 1.exe.config
+C:\Users\Usuario\Desktop\Etapa 4(2)\Etapa 1\bin\Debug\Etapa 1.exe
+C:\Users\Usuario\Desktop\Etapa 4(2)\Etapa 1\bin\Debug\Etapa 1.pdb
+C:\Users\Usuario\Desktop\Etapa 4(2)\Etapa 1\obj\Debug\Etapa 1.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Etapa 4(2)\Etapa 1\obj\Debug\Etapa_1.MainForm.resources
+C:\Users\Usuario\Desktop\Etapa 4(2)\Etapa 1\obj\Debug\Etapa_1.VentanaMejorAgente.resources
+C:\Users\Usuario\Desktop\Etapa 4(2)\Etapa 1\obj\Debug\Etapa_1.VentanaTiempos.resources
+C:\Users\Usuario\Desktop\Etapa 4(2)\Etapa 1\obj\Debug\Etapa 1.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\Etapa 4(2)\Etapa 1\obj\Debug\Etapa 1.exe
+C:\Users\Usuario\Desktop\Etapa 4(2)\Etapa 1\obj\Debug\Etapa 1.pdb
+C:\Users\Usuario\Desktop\Etapa 4(3) - copia\Etapa 1\bin\Debug\Etapa 1.exe.config
+C:\Users\Usuario\Desktop\Etapa 4(3) - copia\Etapa 1\bin\Debug\Etapa 1.exe
+C:\Users\Usuario\Desktop\Etapa 4(3) - copia\Etapa 1\bin\Debug\Etapa 1.pdb
+C:\Users\Usuario\Desktop\Etapa 4(3) - copia\Etapa 1\obj\Debug\Etapa 1.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Etapa 4(3) - copia\Etapa 1\obj\Debug\Etapa_1.MainForm.resources
+C:\Users\Usuario\Desktop\Etapa 4(3) - copia\Etapa 1\obj\Debug\Etapa_1.VentanaEtapa4.resources
+C:\Users\Usuario\Desktop\Etapa 4(3) - copia\Etapa 1\obj\Debug\Etapa_1.VentanaMejorAgente.resources
+C:\Users\Usuario\Desktop\Etapa 4(3) - copia\Etapa 1\obj\Debug\Etapa_1.VentanaTiempos.resources
+C:\Users\Usuario\Desktop\Etapa 4(3) - copia\Etapa 1\obj\Debug\Etapa 1.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\Etapa 4(3) - copia\Etapa 1\obj\Debug\Etapa 1.exe
+C:\Users\Usuario\Desktop\Etapa 4(3) - copia\Etapa 1\obj\Debug\Etapa 1.pdb
+C:\Users\Usuario\Desktop\Etapa 4(4)\Etapa 1\obj\Debug\Etapa 1.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Etapa 4(4)\Etapa 1\obj\Debug\Etapa_1.MainForm.resources
+C:\Users\Usuario\Desktop\Etapa 4(4)\Etapa 1\obj\Debug\Etapa_1.VentanaEtapa4.resources
+C:\Users\Usuario\Desktop\Etapa 4(4)\Etapa 1\obj\Debug\Etapa_1.VentanaMejorAgente.resources
+C:\Users\Usuario\Desktop\Etapa 4(4)\Etapa 1\obj\Debug\Etapa_1.VentanaTiempos.resources
+C:\Users\Usuario\Desktop\Etapa 4(4)\Etapa 1\obj\Debug\Etapa 1.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\Etapa 4(4)\Etapa 1\obj\Debug\Etapa 1.exe
+C:\Users\Usuario\Desktop\Etapa 4(4)\Etapa 1\obj\Debug\Etapa 1.pdb
+C:\Users\Usuario\Desktop\Etapa 4(4)\Etapa 1\bin\Debug\Etapa 1.exe.config
+C:\Users\Usuario\Desktop\Etapa 4(4)\Etapa 1\bin\Debug\Etapa 1.exe
+C:\Users\Usuario\Desktop\Etapa 4(4)\Etapa 1\bin\Debug\Etapa 1.pdb
+C:\Users\Usuario\Desktop\Etapa 4(5)\Etapa 1\bin\Debug\Etapa 1.exe.config
+C:\Users\Usuario\Desktop\Etapa 4(5)\Etapa 1\bin\Debug\Etapa 1.exe
+C:\Users\Usuario\Desktop\Etapa 4(5)\Etapa 1\bin\Debug\Etapa 1.pdb
+C:\Users\Usuario\Desktop\Etapa 4(5)\Etapa 1\obj\Debug\Etapa 1.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Etapa 4(5)\Etapa 1\obj\Debug\Etapa_1.MainForm.resources
+C:\Users\Usuario\Desktop\Etapa 4(5)\Etapa 1\obj\Debug\Etapa_1.VentanaEtapa4.resources
+C:\Users\Usuario\Desktop\Etapa 4(5)\Etapa 1\obj\Debug\Etapa_1.VentanaMejorAgente.resources
+C:\Users\Usuario\Desktop\Etapa 4(5)\Etapa 1\obj\Debug\Etapa_1.VentanaTiempos.resources
+C:\Users\Usuario\Desktop\Etapa 4(5)\Etapa 1\obj\Debug\Etapa 1.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\Etapa 4(5)\Etapa 1\obj\Debug\Etapa 1.exe
+C:\Users\Usuario\Desktop\Etapa 4(5)\Etapa 1\obj\Debug\Etapa 1.pdb
+C:\Users\Usuario\Desktop\Etapa 4(6) - copia\Etapa 1\bin\Debug\Etapa 1.exe.config
+C:\Users\Usuario\Desktop\Etapa 4(6) - copia\Etapa 1\bin\Debug\Etapa 1.exe
+C:\Users\Usuario\Desktop\Etapa 4(6) - copia\Etapa 1\bin\Debug\Etapa 1.pdb
+C:\Users\Usuario\Desktop\Etapa 4(6) - copia\Etapa 1\obj\Debug\Etapa 1.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Etapa 4(6) - copia\Etapa 1\obj\Debug\Etapa_1.MainForm.resources
+C:\Users\Usuario\Desktop\Etapa 4(6) - copia\Etapa 1\obj\Debug\Etapa_1.VentanaEtapa4.resources
+C:\Users\Usuario\Desktop\Etapa 4(6) - copia\Etapa 1\obj\Debug\Etapa_1.VentanaMejorAgente.resources
+C:\Users\Usuario\Desktop\Etapa 4(6) - copia\Etapa 1\obj\Debug\Etapa_1.VentanaTiempos.resources
+C:\Users\Usuario\Desktop\Etapa 4(6) - copia\Etapa 1\obj\Debug\Etapa 1.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\Etapa 4(6) - copia\Etapa 1\obj\Debug\Etapa 1.exe
+C:\Users\Usuario\Desktop\Etapa 4(6) - copia\Etapa 1\obj\Debug\Etapa 1.pdb
+C:\Users\Usuario\Desktop\Etapa 4(7)\Etapa 1\obj\Debug\Etapa 1.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Etapa 4(7)\Etapa 1\obj\Debug\Etapa_1.MainForm.resources
+C:\Users\Usuario\Desktop\Etapa 4(7)\Etapa 1\obj\Debug\Etapa_1.VentanaEtapa4.resources
+C:\Users\Usuario\Desktop\Etapa 4(7)\Etapa 1\obj\Debug\Etapa_1.VentanaMejorAgente.resources
+C:\Users\Usuario\Desktop\Etapa 4(7)\Etapa 1\obj\Debug\Etapa_1.VentanaTiempos.resources
+C:\Users\Usuario\Desktop\Etapa 4(7)\Etapa 1\obj\Debug\Etapa 1.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\Etapa 4(7)\Etapa 1\obj\Debug\Etapa 1.exe
+C:\Users\Usuario\Desktop\Etapa 4(7)\Etapa 1\bin\Debug\Etapa 1.exe.config
+C:\Users\Usuario\Desktop\Etapa 4(7)\Etapa 1\bin\Debug\Etapa 1.exe
+C:\Users\Usuario\Desktop\Etapa 4(7)\Etapa 1\bin\Debug\Etapa 1.pdb
+C:\Users\Usuario\Desktop\Etapa 4(7)\Etapa 1\obj\Debug\Etapa 1.pdb
+D:\Archivos\Etapa 4(7)\Etapa 1\bin\Debug\Etapa 1.exe.config
+D:\Archivos\Etapa 4(7)\Etapa 1\bin\Debug\Etapa 1.exe
+D:\Archivos\Etapa 4(7)\Etapa 1\bin\Debug\Etapa 1.pdb
+D:\Archivos\Etapa 4(7)\Etapa 1\obj\Debug\Etapa 1.csprojResolveAssemblyReference.cache
+D:\Archivos\Etapa 4(7)\Etapa 1\obj\Debug\Etapa_1.MainForm.resources
+D:\Archivos\Etapa 4(7)\Etapa 1\obj\Debug\Etapa_1.VentanaEtapa4.resources
+D:\Archivos\Etapa 4(7)\Etapa 1\obj\Debug\Etapa_1.VentanaMejorAgente.resources
+D:\Archivos\Etapa 4(7)\Etapa 1\obj\Debug\Etapa_1.VentanaTiempos.resources
+D:\Archivos\Etapa 4(7)\Etapa 1\obj\Debug\Etapa 1.csproj.GenerateResource.Cache
+D:\Archivos\Etapa 4(7)\Etapa 1\obj\Debug\Etapa 1.exe
+D:\Archivos\Etapa 4(7)\Etapa 1\obj\Debug\Etapa 1.pdb
+C:\Users\Usuario\Desktop\Etapa 4(8)(entregado)\Etapa 1\bin\Debug\Etapa 1.exe.config
+C:\Users\Usuario\Desktop\Etapa 4(8)(entregado)\Etapa 1\bin\Debug\Etapa 1.exe
+C:\Users\Usuario\Desktop\Etapa 4(8)(entregado)\Etapa 1\bin\Debug\Etapa 1.pdb
+C:\Users\Usuario\Desktop\Etapa 4(8)(entregado)\Etapa 1\obj\Debug\Etapa 1.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Etapa 4(8)(entregado)\Etapa 1\obj\Debug\Etapa_1.MainForm.resources
+C:\Users\Usuario\Desktop\Etapa 4(8)(entregado)\Etapa 1\obj\Debug\Etapa_1.VentanaEtapa4.resources
+C:\Users\Usuario\Desktop\Etapa 4(8)(entregado)\Etapa 1\obj\Debug\Etapa_1.VentanaMejorAgente.resources
+C:\Users\Usuario\Desktop\Etapa 4(8)(entregado)\Etapa 1\obj\Debug\Etapa_1.VentanaTiempos.resources
+C:\Users\Usuario\Desktop\Etapa 4(8)(entregado)\Etapa 1\obj\Debug\Etapa 1.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\Etapa 4(8)(entregado)\Etapa 1\obj\Debug\Etapa 1.exe
+C:\Users\Usuario\Desktop\Etapa 4(8)(entregado)\Etapa 1\obj\Debug\Etapa 1.pdb
+C:\Users\Usuario\Desktop\Etapa 5(1)\Etapa 1\bin\Debug\Etapa 1.exe.config
+C:\Users\Usuario\Desktop\Etapa 5(1)\Etapa 1\bin\Debug\Etapa 1.exe
+C:\Users\Usuario\Desktop\Etapa 5(1)\Etapa 1\bin\Debug\Etapa 1.pdb
+C:\Users\Usuario\Desktop\Etapa 5(1)\Etapa 1\obj\Debug\Etapa 1.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Etapa 5(1)\Etapa 1\obj\Debug\Etapa_1.MainForm.resources
+C:\Users\Usuario\Desktop\Etapa 5(1)\Etapa 1\obj\Debug\Etapa_1.VentanaEtapa4.resources
+C:\Users\Usuario\Desktop\Etapa 5(1)\Etapa 1\obj\Debug\Etapa_1.VentanaMejorAgente.resources
+C:\Users\Usuario\Desktop\Etapa 5(1)\Etapa 1\obj\Debug\Etapa_1.VentanaTiempos.resources
+C:\Users\Usuario\Desktop\Etapa 5(1)\Etapa 1\obj\Debug\Etapa 1.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\Etapa 5(1)\Etapa 1\obj\Debug\Etapa 1.exe
+C:\Users\Usuario\Desktop\Etapa 5(1)\Etapa 1\obj\Debug\Etapa 1.pdb
+C:\Users\Usuario\Desktop\Etapa 5(2)\Etapa 1\obj\Debug\Etapa 1.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Etapa 5(2)\Etapa 1\obj\Debug\Etapa_1.MainForm.resources
+C:\Users\Usuario\Desktop\Etapa 5(2)\Etapa 1\obj\Debug\Etapa_1.VentanaEtapa4.resources
+C:\Users\Usuario\Desktop\Etapa 5(2)\Etapa 1\obj\Debug\Etapa_1.VentanaMejorAgente.resources
+C:\Users\Usuario\Desktop\Etapa 5(2)\Etapa 1\obj\Debug\Etapa_1.VentanaTiempos.resources
+C:\Users\Usuario\Desktop\Etapa 5(2)\Etapa 1\obj\Debug\Etapa 1.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\Etapa 5(2)\Etapa 1\obj\Debug\Etapa 1.exe
+C:\Users\Usuario\Desktop\Etapa 5(2)\Etapa 1\bin\Debug\Etapa 1.exe.config
+C:\Users\Usuario\Desktop\Etapa 5(2)\Etapa 1\bin\Debug\Etapa 1.exe
+C:\Users\Usuario\Desktop\Etapa 5(2)\Etapa 1\bin\Debug\Etapa 1.pdb
+C:\Users\Usuario\Desktop\Etapa 5(2)\Etapa 1\obj\Debug\Etapa 1.pdb
+C:\Users\Usuario\Desktop\Etapa 5(4) - copia\Etapa 1\obj\Debug\Etapa 1.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Etapa 5(4) - copia\Etapa 1\obj\Debug\Etapa_1.MainForm.resources
+C:\Users\Usuario\Desktop\Etapa 5(4) - copia\Etapa 1\obj\Debug\Etapa_1.VentanaEtapa4.resources
+C:\Users\Usuario\Desktop\Etapa 5(4) - copia\Etapa 1\obj\Debug\Etapa_1.VentanaMejorAgente.resources
+C:\Users\Usuario\Desktop\Etapa 5(4) - copia\Etapa 1\obj\Debug\Etapa_1.VentanaTiempos.resources
+C:\Users\Usuario\Desktop\Etapa 5(4) - copia\Etapa 1\obj\Debug\Etapa 1.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\Etapa 5(4) - copia\Etapa 1\obj\Debug\Etapa 1.exe
+C:\Users\Usuario\Desktop\Etapa 5(4) - copia\Etapa 1\bin\Debug\Etapa 1.exe.config
+C:\Users\Usuario\Desktop\Etapa 5(4) - copia\Etapa 1\bin\Debug\Etapa 1.exe
+C:\Users\Usuario\Desktop\Etapa 5(4) - copia\Etapa 1\bin\Debug\Etapa 1.pdb
+C:\Users\Usuario\Desktop\Etapa 5(4) - copia\Etapa 1\obj\Debug\Etapa 1.pdb
+C:\Users\Usuario\Desktop\Etapa 5(5)\Etapa 1\bin\Debug\Etapa 1.exe.config
+C:\Users\Usuario\Desktop\Etapa 5(5)\Etapa 1\bin\Debug\Etapa 1.exe
+C:\Users\Usuario\Desktop\Etapa 5(5)\Etapa 1\bin\Debug\Etapa 1.pdb
+C:\Users\Usuario\Desktop\Etapa 5(5)\Etapa 1\obj\Debug\Etapa 1.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Etapa 5(5)\Etapa 1\obj\Debug\Etapa_1.MainForm.resources
+C:\Users\Usuario\Desktop\Etapa 5(5)\Etapa 1\obj\Debug\Etapa_1.VentanaEtapa4.resources
+C:\Users\Usuario\Desktop\Etapa 5(5)\Etapa 1\obj\Debug\Etapa_1.VentanaMejorAgente.resources
+C:\Users\Usuario\Desktop\Etapa 5(5)\Etapa 1\obj\Debug\Etapa_1.VentanaTiempos.resources
+C:\Users\Usuario\Desktop\Etapa 5(5)\Etapa 1\obj\Debug\Etapa 1.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\Etapa 5(5)\Etapa 1\obj\Debug\Etapa 1.exe
+C:\Users\Usuario\Desktop\Etapa 5(5)\Etapa 1\obj\Debug\Etapa 1.pdb
+C:\Users\Usuario\Desktop\Etapa 5(6)\Etapa 1\obj\Debug\Etapa 1.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Etapa 5(6)\Etapa 1\obj\Debug\Etapa_1.MainForm.resources
+C:\Users\Usuario\Desktop\Etapa 5(6)\Etapa 1\obj\Debug\Etapa_1.VentanaEtapa4.resources
+C:\Users\Usuario\Desktop\Etapa 5(6)\Etapa 1\obj\Debug\Etapa_1.VentanaMejorAgente.resources
+C:\Users\Usuario\Desktop\Etapa 5(6)\Etapa 1\obj\Debug\Etapa_1.VentanaTiempos.resources
+C:\Users\Usuario\Desktop\Etapa 5(6)\Etapa 1\obj\Debug\Etapa 1.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\Etapa 5(6)\Etapa 1\obj\Debug\Etapa 1.exe
+C:\Users\Usuario\Desktop\Etapa 5(6)\Etapa 1\obj\Debug\Etapa 1.pdb
+C:\Users\Usuario\Desktop\Etapa 5(6)\Etapa 1\bin\Debug\Etapa 1.exe.config
+C:\Users\Usuario\Desktop\Etapa 5(6)\Etapa 1\bin\Debug\Etapa 1.exe
+C:\Users\Usuario\Desktop\Etapa 5(6)\Etapa 1\bin\Debug\Etapa 1.pdb
+C:\Users\Usuario\Desktop\Etapa 5(6)\Etapa 1\obj\Debug\Etapa_1.MostrarInformacionAnimacion.resources
+C:\Users\Usuario\Desktop\Etapa 5(6) - copia\Etapa 1\bin\Debug\Etapa 1.exe.config
+C:\Users\Usuario\Desktop\Etapa 5(6) - copia\Etapa 1\bin\Debug\Etapa 1.exe
+C:\Users\Usuario\Desktop\Etapa 5(6) - copia\Etapa 1\bin\Debug\Etapa 1.pdb
+C:\Users\Usuario\Desktop\Etapa 5(6) - copia\Etapa 1\obj\Debug\Etapa 1.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Etapa 5(6) - copia\Etapa 1\obj\Debug\Etapa_1.MainForm.resources
+C:\Users\Usuario\Desktop\Etapa 5(6) - copia\Etapa 1\obj\Debug\Etapa_1.VentanaEtapa4.resources
+C:\Users\Usuario\Desktop\Etapa 5(6) - copia\Etapa 1\obj\Debug\Etapa_1.VentanaMejorAgente.resources
+C:\Users\Usuario\Desktop\Etapa 5(6) - copia\Etapa 1\obj\Debug\Etapa_1.VentanaTiempos.resources
+C:\Users\Usuario\Desktop\Etapa 5(6) - copia\Etapa 1\obj\Debug\Etapa 1.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\Etapa 5(6) - copia\Etapa 1\obj\Debug\Etapa 1.exe
+C:\Users\Usuario\Desktop\Etapa 5(6) - copia\Etapa 1\obj\Debug\Etapa 1.pdb
+C:\Users\Usuario\Desktop\Etapa 5(6) - copia\Etapa 1\obj\Debug\Etapa_1.InformacionAnimacion.resources
+C:\Users\Usuario\Desktop\Etapa 5(7)\Etapa 1\bin\Debug\Etapa 1.exe.config
+C:\Users\Usuario\Desktop\Etapa 5(7)\Etapa 1\bin\Debug\Etapa 1.exe
+C:\Users\Usuario\Desktop\Etapa 5(7)\Etapa 1\bin\Debug\Etapa 1.pdb
+C:\Users\Usuario\Desktop\Etapa 5(7)\Etapa 1\obj\Debug\Etapa 1.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Etapa 5(7)\Etapa 1\obj\Debug\Etapa_1.InformacionAnimacion.resources
+C:\Users\Usuario\Desktop\Etapa 5(7)\Etapa 1\obj\Debug\Etapa_1.MainForm.resources
+C:\Users\Usuario\Desktop\Etapa 5(7)\Etapa 1\obj\Debug\Etapa_1.VentanaEtapa4.resources
+C:\Users\Usuario\Desktop\Etapa 5(7)\Etapa 1\obj\Debug\Etapa_1.VentanaMejorAgente.resources
+C:\Users\Usuario\Desktop\Etapa 5(7)\Etapa 1\obj\Debug\Etapa_1.VentanaTiempos.resources
+C:\Users\Usuario\Desktop\Etapa 5(7)\Etapa 1\obj\Debug\Etapa 1.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\Etapa 5(7)\Etapa 1\obj\Debug\Etapa 1.exe
+C:\Users\Usuario\Desktop\Etapa 5(7)\Etapa 1\obj\Debug\Etapa 1.pdb
+C:\Users\Usuario\Desktop\Etapa 5(7) - copia\Etapa 1\bin\Debug\Etapa 1.exe.config
+C:\Users\Usuario\Desktop\Etapa 5(7) - copia\Etapa 1\bin\Debug\Etapa 1.exe
+C:\Users\Usuario\Desktop\Etapa 5(7) - copia\Etapa 1\bin\Debug\Etapa 1.pdb
+C:\Users\Usuario\Desktop\Etapa 5(7) - copia\Etapa 1\obj\Debug\Etapa 1.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Etapa 5(7) - copia\Etapa 1\obj\Debug\Etapa_1.InformacionAnimacion.resources
+C:\Users\Usuario\Desktop\Etapa 5(7) - copia\Etapa 1\obj\Debug\Etapa_1.MainForm.resources
+C:\Users\Usuario\Desktop\Etapa 5(7) - copia\Etapa 1\obj\Debug\Etapa_1.VentanaEtapa4.resources
+C:\Users\Usuario\Desktop\Etapa 5(7) - copia\Etapa 1\obj\Debug\Etapa_1.VentanaMejorAgente.resources
+C:\Users\Usuario\Desktop\Etapa 5(7) - copia\Etapa 1\obj\Debug\Etapa_1.VentanaTiempos.resources
+C:\Users\Usuario\Desktop\Etapa 5(7) - copia\Etapa 1\obj\Debug\Etapa 1.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\Etapa 5(7) - copia\Etapa 1\obj\Debug\Etapa 1.exe
+C:\Users\Usuario\Desktop\Etapa 5(7) - copia\Etapa 1\obj\Debug\Etapa 1.pdb
+C:\Users\Usuario\Desktop\Etapa 5(8) - copia\Etapa 1\bin\Debug\Etapa 1.exe.config
+C:\Users\Usuario\Desktop\Etapa 5(8) - copia\Etapa 1\bin\Debug\Etapa 1.exe
+C:\Users\Usuario\Desktop\Etapa 5(8) - copia\Etapa 1\bin\Debug\Etapa 1.pdb
+C:\Users\Usuario\Desktop\Etapa 5(8) - copia\Etapa 1\obj\Debug\Etapa 1.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Etapa 5(8) - copia\Etapa 1\obj\Debug\Etapa_1.InformacionAnimacion.resources
+C:\Users\Usuario\Desktop\Etapa 5(8) - copia\Etapa 1\obj\Debug\Etapa_1.MainForm.resources
+C:\Users\Usuario\Desktop\Etapa 5(8) - copia\Etapa 1\obj\Debug\Etapa_1.VentanaEtapa4.resources
+C:\Users\Usuario\Desktop\Etapa 5(8) - copia\Etapa 1\obj\Debug\Etapa_1.VentanaMejorAgente.resources
+C:\Users\Usuario\Desktop\Etapa 5(8) - copia\Etapa 1\obj\Debug\Etapa_1.VentanaTiempos.resources
+C:\Users\Usuario\Desktop\Etapa 5(8) - copia\Etapa 1\obj\Debug\Etapa 1.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\Etapa 5(8) - copia\Etapa 1\obj\Debug\Etapa 1.exe
+C:\Users\Usuario\Desktop\Etapa 5(8) - copia\Etapa 1\obj\Debug\Etapa 1.pdb
+C:\Users\Usuario\Desktop\Etapa 5(9)\Etapa 1\bin\Debug\Etapa 1.exe.config
+C:\Users\Usuario\Desktop\Etapa 5(9)\Etapa 1\bin\Debug\Etapa 1.exe
+C:\Users\Usuario\Desktop\Etapa 5(9)\Etapa 1\bin\Debug\Etapa 1.pdb
+C:\Users\Usuario\Desktop\Etapa 5(9)\Etapa 1\obj\Debug\Etapa 1.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Etapa 5(9)\Etapa 1\obj\Debug\Etapa_1.InformacionAnimacion.resources
+C:\Users\Usuario\Desktop\Etapa 5(9)\Etapa 1\obj\Debug\Etapa_1.MainForm.resources
+C:\Users\Usuario\Desktop\Etapa 5(9)\Etapa 1\obj\Debug\Etapa_1.VentanaEtapa4.resources
+C:\Users\Usuario\Desktop\Etapa 5(9)\Etapa 1\obj\Debug\Etapa_1.VentanaMejorAgente.resources
+C:\Users\Usuario\Desktop\Etapa 5(9)\Etapa 1\obj\Debug\Etapa_1.VentanaTiempos.resources
+C:\Users\Usuario\Desktop\Etapa 5(9)\Etapa 1\obj\Debug\Etapa 1.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\Etapa 5(9)\Etapa 1\obj\Debug\Etapa 1.exe
+C:\Users\Usuario\Desktop\Etapa 5(9)\Etapa 1\obj\Debug\Etapa 1.pdb
+C:\Users\Usuario\Desktop\Etapa 5(10)\Etapa 1\bin\Debug\Etapa 1.exe.config
+C:\Users\Usuario\Desktop\Etapa 5(10)\Etapa 1\bin\Debug\Etapa 1.exe
+C:\Users\Usuario\Desktop\Etapa 5(10)\Etapa 1\bin\Debug\Etapa 1.pdb
+C:\Users\Usuario\Desktop\Etapa 5(10)\Etapa 1\obj\Debug\Etapa 1.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Etapa 5(10)\Etapa 1\obj\Debug\Etapa_1.InformacionAnimacion.resources
+C:\Users\Usuario\Desktop\Etapa 5(10)\Etapa 1\obj\Debug\Etapa_1.MainForm.resources
+C:\Users\Usuario\Desktop\Etapa 5(10)\Etapa 1\obj\Debug\Etapa_1.VentanaEtapa4.resources
+C:\Users\Usuario\Desktop\Etapa 5(10)\Etapa 1\obj\Debug\Etapa_1.VentanaMejorAgente.resources
+C:\Users\Usuario\Desktop\Etapa 5(10)\Etapa 1\obj\Debug\Etapa_1.VentanaTiempos.resources
+C:\Users\Usuario\Desktop\Etapa 5(10)\Etapa 1\obj\Debug\Etapa 1.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\Etapa 5(10)\Etapa 1\obj\Debug\Etapa 1.exe
+C:\Users\Usuario\Desktop\Etapa 5(10)\Etapa 1\obj\Debug\Etapa 1.pdb
+C:\Users\Usuario\Desktop\Etapa 5(11)Presionando\Etapa 1\bin\Debug\Etapa 1.exe.config
+C:\Users\Usuario\Desktop\Etapa 5(11)Presionando\Etapa 1\bin\Debug\Etapa 1.exe
+C:\Users\Usuario\Desktop\Etapa 5(11)Presionando\Etapa 1\bin\Debug\Etapa 1.pdb
+C:\Users\Usuario\Desktop\Etapa 5(11)Presionando\Etapa 1\obj\Debug\Etapa 1.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Etapa 5(11)Presionando\Etapa 1\obj\Debug\Etapa_1.InformacionAnimacion.resources
+C:\Users\Usuario\Desktop\Etapa 5(11)Presionando\Etapa 1\obj\Debug\Etapa_1.MainForm.resources
+C:\Users\Usuario\Desktop\Etapa 5(11)Presionando\Etapa 1\obj\Debug\Etapa_1.VentanaEtapa4.resources
+C:\Users\Usuario\Desktop\Etapa 5(11)Presionando\Etapa 1\obj\Debug\Etapa_1.VentanaMejorAgente.resources
+C:\Users\Usuario\Desktop\Etapa 5(11)Presionando\Etapa 1\obj\Debug\Etapa_1.VentanaTiempos.resources
+C:\Users\Usuario\Desktop\Etapa 5(11)Presionando\Etapa 1\obj\Debug\Etapa 1.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\Etapa 5(11)Presionando\Etapa 1\obj\Debug\Etapa 1.exe
+C:\Users\Usuario\Desktop\Etapa 5(11)Presionando\Etapa 1\obj\Debug\Etapa 1.pdb
+C:\Users\Usuario\Desktop\Etapa 5(12)Presionando\Etapa 1\bin\Debug\Etapa 1.exe.config
+C:\Users\Usuario\Desktop\Etapa 5(12)Presionando\Etapa 1\bin\Debug\Etapa 1.exe
+C:\Users\Usuario\Desktop\Etapa 5(12)Presionando\Etapa 1\bin\Debug\Etapa 1.pdb
+C:\Users\Usuario\Desktop\Etapa 5(12)Presionando\Etapa 1\obj\Debug\Etapa 1.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Etapa 5(12)Presionando\Etapa 1\obj\Debug\Etapa_1.InformacionAnimacion.resources
+C:\Users\Usuario\Desktop\Etapa 5(12)Presionando\Etapa 1\obj\Debug\Etapa_1.MainForm.resources
+C:\Users\Usuario\Desktop\Etapa 5(12)Presionando\Etapa 1\obj\Debug\Etapa_1.VentanaEtapa4.resources
+C:\Users\Usuario\Desktop\Etapa 5(12)Presionando\Etapa 1\obj\Debug\Etapa_1.VentanaMejorAgente.resources
+C:\Users\Usuario\Desktop\Etapa 5(12)Presionando\Etapa 1\obj\Debug\Etapa_1.VentanaTiempos.resources
+C:\Users\Usuario\Desktop\Etapa 5(12)Presionando\Etapa 1\obj\Debug\Etapa 1.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\Etapa 5(12)Presionando\Etapa 1\obj\Debug\Etapa 1.exe
+C:\Users\Usuario\Desktop\Etapa 5(12)Presionando\Etapa 1\obj\Debug\Etapa 1.pdb
+C:\Users\Usuario\Desktop\Etapa 5(12)\Etapa 1\bin\Debug\Etapa 1.exe.config
+C:\Users\Usuario\Desktop\Etapa 5(12)\Etapa 1\bin\Debug\Etapa 1.exe
+C:\Users\Usuario\Desktop\Etapa 5(12)\Etapa 1\bin\Debug\Etapa 1.pdb
+C:\Users\Usuario\Desktop\Etapa 5(12)\Etapa 1\obj\Debug\Etapa 1.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Etapa 5(12)\Etapa 1\obj\Debug\Etapa_1.InformacionAnimacion.resources
+C:\Users\Usuario\Desktop\Etapa 5(12)\Etapa 1\obj\Debug\Etapa_1.MainForm.resources
+C:\Users\Usuario\Desktop\Etapa 5(12)\Etapa 1\obj\Debug\Etapa_1.VentanaEtapa4.resources
+C:\Users\Usuario\Desktop\Etapa 5(12)\Etapa 1\obj\Debug\Etapa_1.VentanaMejorAgente.resources
+C:\Users\Usuario\Desktop\Etapa 5(12)\Etapa 1\obj\Debug\Etapa_1.VentanaTiempos.resources
+C:\Users\Usuario\Desktop\Etapa 5(12)\Etapa 1\obj\Debug\Etapa 1.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\Etapa 5(12)\Etapa 1\obj\Debug\Etapa 1.exe
+C:\Users\Usuario\Desktop\Etapa 5(12)\Etapa 1\obj\Debug\Etapa 1.pdb
+C:\Users\Usuario\Desktop\Etapa 6(1)\Etapa 1\obj\Debug\Etapa 1.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Etapa 6(1)\Etapa 1\obj\Debug\Etapa_1.InformacionAnimacion.resources
+C:\Users\Usuario\Desktop\Etapa 6(1)\Etapa 1\obj\Debug\Etapa_1.MainForm.resources
+C:\Users\Usuario\Desktop\Etapa 6(1)\Etapa 1\obj\Debug\Etapa_1.VentanaEtapa4.resources
+C:\Users\Usuario\Desktop\Etapa 6(1)\Etapa 1\obj\Debug\Etapa_1.VentanaMejorAgente.resources
+C:\Users\Usuario\Desktop\Etapa 6(1)\Etapa 1\obj\Debug\Etapa_1.VentanaTiempos.resources
+C:\Users\Usuario\Desktop\Etapa 6(1)\Etapa 1\obj\Debug\Etapa 1.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\Etapa 6(1)\Etapa 1\obj\Debug\Etapa 1.exe
+C:\Users\Usuario\Desktop\Etapa 6(1)\Etapa 1\obj\Debug\Etapa 1.pdb
+C:\Users\Usuario\Desktop\Etapa 6(1)\Etapa 1\bin\Debug\Etapa 1.exe.config
+C:\Users\Usuario\Desktop\Etapa 6(1)\Etapa 1\bin\Debug\Etapa 1.exe
+C:\Users\Usuario\Desktop\Etapa 6(1)\Etapa 1\bin\Debug\Etapa 1.pdb
+C:\Users\Usuario\Desktop\Etapa 6(2)\Etapa 1\obj\Debug\Etapa 1.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Etapa 6(2)\Etapa 1\obj\Debug\Etapa_1.InformacionAnimacion.resources
+C:\Users\Usuario\Desktop\Etapa 6(2)\Etapa 1\obj\Debug\Etapa_1.MainForm.resources
+C:\Users\Usuario\Desktop\Etapa 6(2)\Etapa 1\obj\Debug\Etapa_1.VentanaEtapa4.resources
+C:\Users\Usuario\Desktop\Etapa 6(2)\Etapa 1\obj\Debug\Etapa_1.VentanaMejorAgente.resources
+C:\Users\Usuario\Desktop\Etapa 6(2)\Etapa 1\obj\Debug\Etapa_1.VentanaTiempos.resources
+C:\Users\Usuario\Desktop\Etapa 6(2)\Etapa 1\obj\Debug\Etapa 1.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\Etapa 6(2)\Etapa 1\obj\Debug\Etapa 1.exe
+C:\Users\Usuario\Desktop\Etapa 6(2)\Etapa 1\bin\Debug\Etapa 1.exe.config
+C:\Users\Usuario\Desktop\Etapa 6(2)\Etapa 1\bin\Debug\Etapa 1.exe
+C:\Users\Usuario\Desktop\Etapa 6(2)\Etapa 1\bin\Debug\Etapa 1.pdb
+C:\Users\Usuario\Desktop\Etapa 6(2)\Etapa 1\obj\Debug\Etapa 1.pdb
+C:\Users\Usuario\Desktop\Etapa 6(3)\Etapa 1\obj\Debug\Etapa 1.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Etapa 6(3)\Etapa 1\obj\Debug\Etapa_1.InformacionAnimacion.resources
+C:\Users\Usuario\Desktop\Etapa 6(3)\Etapa 1\obj\Debug\Etapa_1.MainForm.resources
+C:\Users\Usuario\Desktop\Etapa 6(3)\Etapa 1\obj\Debug\Etapa_1.VentanaEtapa4.resources
+C:\Users\Usuario\Desktop\Etapa 6(3)\Etapa 1\obj\Debug\Etapa_1.VentanaMejorAgente.resources
+C:\Users\Usuario\Desktop\Etapa 6(3)\Etapa 1\obj\Debug\Etapa_1.VentanaTiempos.resources
+C:\Users\Usuario\Desktop\Etapa 6(3)\Etapa 1\obj\Debug\Etapa 1.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\Etapa 6(3)\Etapa 1\obj\Debug\Etapa 1.exe
+C:\Users\Usuario\Desktop\Etapa 6(3)\Etapa 1\bin\Debug\Etapa 1.exe.config
+C:\Users\Usuario\Desktop\Etapa 6(3)\Etapa 1\bin\Debug\Etapa 1.exe
+C:\Users\Usuario\Desktop\Etapa 6(3)\Etapa 1\bin\Debug\Etapa 1.pdb
+C:\Users\Usuario\Desktop\Etapa 6(3)\Etapa 1\obj\Debug\Etapa 1.pdb
+C:\Users\Usuario\Desktop\Etapa 6(3)\Etapa 1\obj\Debug\Etapa_1.ComparacionPuntosMasCercanos.resources
+C:\Users\Usuario\Desktop\Etapa 6(4)\Etapa 1\bin\Debug\Etapa 1.exe.config
+C:\Users\Usuario\Desktop\Etapa 6(4)\Etapa 1\bin\Debug\Etapa 1.exe
+C:\Users\Usuario\Desktop\Etapa 6(4)\Etapa 1\bin\Debug\Etapa 1.pdb
+C:\Users\Usuario\Desktop\Etapa 6(4)\Etapa 1\obj\Debug\Etapa 1.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Etapa 6(4)\Etapa 1\obj\Debug\Etapa_1.ComparacionPuntosMasCercanos.resources
+C:\Users\Usuario\Desktop\Etapa 6(4)\Etapa 1\obj\Debug\Etapa_1.InformacionAnimacion.resources
+C:\Users\Usuario\Desktop\Etapa 6(4)\Etapa 1\obj\Debug\Etapa_1.MainForm.resources
+C:\Users\Usuario\Desktop\Etapa 6(4)\Etapa 1\obj\Debug\Etapa_1.VentanaEtapa4.resources
+C:\Users\Usuario\Desktop\Etapa 6(4)\Etapa 1\obj\Debug\Etapa_1.VentanaMejorAgente.resources
+C:\Users\Usuario\Desktop\Etapa 6(4)\Etapa 1\obj\Debug\Etapa_1.VentanaTiempos.resources
+C:\Users\Usuario\Desktop\Etapa 6(4)\Etapa 1\obj\Debug\Etapa 1.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\Etapa 6(4)\Etapa 1\obj\Debug\Etapa 1.exe
+C:\Users\Usuario\Desktop\Etapa 6(4)\Etapa 1\obj\Debug\Etapa 1.pdb
+C:\Users\Usuario\Desktop\Etapa 6(5)\Etapa 1\bin\Debug\Etapa 1.exe.config
+C:\Users\Usuario\Desktop\Etapa 6(5)\Etapa 1\bin\Debug\Etapa 1.exe
+C:\Users\Usuario\Desktop\Etapa 6(5)\Etapa 1\bin\Debug\Etapa 1.pdb
+C:\Users\Usuario\Desktop\Etapa 6(5)\Etapa 1\obj\Debug\Etapa 1.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Etapa 6(5)\Etapa 1\obj\Debug\Etapa_1.ComparacionPuntosMasCercanos.resources
+C:\Users\Usuario\Desktop\Etapa 6(5)\Etapa 1\obj\Debug\Etapa_1.InformacionAnimacion.resources
+C:\Users\Usuario\Desktop\Etapa 6(5)\Etapa 1\obj\Debug\Etapa_1.MainForm.resources
+C:\Users\Usuario\Desktop\Etapa 6(5)\Etapa 1\obj\Debug\Etapa_1.VentanaEtapa4.resources
+C:\Users\Usuario\Desktop\Etapa 6(5)\Etapa 1\obj\Debug\Etapa_1.VentanaMejorAgente.resources
+C:\Users\Usuario\Desktop\Etapa 6(5)\Etapa 1\obj\Debug\Etapa_1.VentanaTiempos.resources
+C:\Users\Usuario\Desktop\Etapa 6(5)\Etapa 1\obj\Debug\Etapa 1.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\Etapa 6(5)\Etapa 1\obj\Debug\Etapa 1.exe
+C:\Users\Usuario\Desktop\Etapa 6(5)\Etapa 1\obj\Debug\Etapa 1.pdb
+C:\Users\Usuario\Desktop\Etapa 6(5)ENTREGADO\Etapa 1\bin\Debug\Etapa 1.exe.config
+C:\Users\Usuario\Desktop\Etapa 6(5)ENTREGADO\Etapa 1\bin\Debug\Etapa 1.exe
+C:\Users\Usuario\Desktop\Etapa 6(5)ENTREGADO\Etapa 1\bin\Debug\Etapa 1.pdb
+C:\Users\Usuario\Desktop\Etapa 6(5)ENTREGADO\Etapa 1\obj\Debug\Etapa 1.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Etapa 6(5)ENTREGADO\Etapa 1\obj\Debug\Etapa_1.ComparacionPuntosMasCercanos.resources
+C:\Users\Usuario\Desktop\Etapa 6(5)ENTREGADO\Etapa 1\obj\Debug\Etapa_1.InformacionAnimacion.resources
+C:\Users\Usuario\Desktop\Etapa 6(5)ENTREGADO\Etapa 1\obj\Debug\Etapa_1.MainForm.resources
+C:\Users\Usuario\Desktop\Etapa 6(5)ENTREGADO\Etapa 1\obj\Debug\Etapa_1.VentanaEtapa4.resources
+C:\Users\Usuario\Desktop\Etapa 6(5)ENTREGADO\Etapa 1\obj\Debug\Etapa_1.VentanaMejorAgente.resources
+C:\Users\Usuario\Desktop\Etapa 6(5)ENTREGADO\Etapa 1\obj\Debug\Etapa_1.VentanaTiempos.resources
+C:\Users\Usuario\Desktop\Etapa 6(5)ENTREGADO\Etapa 1\obj\Debug\Etapa 1.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\Etapa 6(5)ENTREGADO\Etapa 1\obj\Debug\Etapa 1.exe
+C:\Users\Usuario\Desktop\Etapa 6(5)ENTREGADO\Etapa 1\obj\Debug\Etapa 1.pdb
+C:\Users\Usuario\Desktop\Etapa 7(Proyecto Final)\Etapa 1\obj\Debug\Etapa 1.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Etapa 7(Proyecto Final)\Etapa 1\obj\Debug\Etapa_1.ComparacionPuntosMasCercanos.resources
+C:\Users\Usuario\Desktop\Etapa 7(Proyecto Final)\Etapa 1\obj\Debug\Etapa_1.InformacionAnimacion.resources
+C:\Users\Usuario\Desktop\Etapa 7(Proyecto Final)\Etapa 1\obj\Debug\Etapa_1.MainForm.resources
+C:\Users\Usuario\Desktop\Etapa 7(Proyecto Final)\Etapa 1\obj\Debug\Etapa_1.VentanaEtapa4.resources
+C:\Users\Usuario\Desktop\Etapa 7(Proyecto Final)\Etapa 1\obj\Debug\Etapa_1.VentanaMejorAgente.resources
+C:\Users\Usuario\Desktop\Etapa 7(Proyecto Final)\Etapa 1\obj\Debug\Etapa_1.VentanaTiempos.resources
+C:\Users\Usuario\Desktop\Etapa 7(Proyecto Final)\Etapa 1\obj\Debug\Etapa 1.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\Etapa 7(Proyecto Final)\Etapa 1\obj\Debug\Etapa 1.exe
+C:\Users\Usuario\Desktop\Etapa 7(Proyecto Final)\Etapa 1\bin\Debug\Etapa 1.exe.config
+C:\Users\Usuario\Desktop\Etapa 7(Proyecto Final)\Etapa 1\bin\Debug\Etapa 1.exe
+C:\Users\Usuario\Desktop\Etapa 7(Proyecto Final)\Etapa 1\bin\Debug\Etapa 1.pdb
+C:\Users\Usuario\Desktop\Etapa 7(Proyecto Final)\Etapa 1\obj\Debug\Etapa 1.pdb
+C:\Users\Usuario\Desktop\Etapa 7(2)\Etapa 1\bin\Debug\Etapa 1.exe.config
+C:\Users\Usuario\Desktop\Etapa 7(2)\Etapa 1\bin\Debug\Etapa 1.exe
+C:\Users\Usuario\Desktop\Etapa 7(2)\Etapa 1\bin\Debug\Etapa 1.pdb
+C:\Users\Usuario\Desktop\Etapa 7(2)\Etapa 1\obj\Debug\Etapa 1.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Etapa 7(2)\Etapa 1\obj\Debug\Etapa_1.ComparacionPuntosMasCercanos.resources
+C:\Users\Usuario\Desktop\Etapa 7(2)\Etapa 1\obj\Debug\Etapa_1.InformacionAnimacion.resources
+C:\Users\Usuario\Desktop\Etapa 7(2)\Etapa 1\obj\Debug\Etapa_1.MainForm.resources
+C:\Users\Usuario\Desktop\Etapa 7(2)\Etapa 1\obj\Debug\Etapa_1.VentanaEtapa4.resources
+C:\Users\Usuario\Desktop\Etapa 7(2)\Etapa 1\obj\Debug\Etapa_1.VentanaMejorAgente.resources
+C:\Users\Usuario\Desktop\Etapa 7(2)\Etapa 1\obj\Debug\Etapa_1.VentanaTiempos.resources
+C:\Users\Usuario\Desktop\Etapa 7(2)\Etapa 1\obj\Debug\Etapa 1.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\Etapa 7(2)\Etapa 1\obj\Debug\Etapa 1.exe
+C:\Users\Usuario\Desktop\Etapa 7(2)\Etapa 1\obj\Debug\Etapa 1.pdb
+C:\Users\Usuario\Desktop\Etapa 7(3)\Etapa 1\bin\Debug\Etapa 1.exe.config
+C:\Users\Usuario\Desktop\Etapa 7(3)\Etapa 1\bin\Debug\Etapa 1.exe
+C:\Users\Usuario\Desktop\Etapa 7(3)\Etapa 1\bin\Debug\Etapa 1.pdb
+C:\Users\Usuario\Desktop\Etapa 7(3)\Etapa 1\obj\Debug\Etapa 1.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Etapa 7(3)\Etapa 1\obj\Debug\Etapa_1.ComparacionPuntosMasCercanos.resources
+C:\Users\Usuario\Desktop\Etapa 7(3)\Etapa 1\obj\Debug\Etapa_1.InformacionAnimacion.resources
+C:\Users\Usuario\Desktop\Etapa 7(3)\Etapa 1\obj\Debug\Etapa_1.MainForm.resources
+C:\Users\Usuario\Desktop\Etapa 7(3)\Etapa 1\obj\Debug\Etapa_1.VentanaEtapa4.resources
+C:\Users\Usuario\Desktop\Etapa 7(3)\Etapa 1\obj\Debug\Etapa_1.VentanaMejorAgente.resources
+C:\Users\Usuario\Desktop\Etapa 7(3)\Etapa 1\obj\Debug\Etapa_1.VentanaTiempos.resources
+C:\Users\Usuario\Desktop\Etapa 7(3)\Etapa 1\obj\Debug\Etapa 1.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\Etapa 7(3)\Etapa 1\obj\Debug\Etapa 1.exe
+C:\Users\Usuario\Desktop\Etapa 7(3)\Etapa 1\obj\Debug\Etapa 1.pdb
+C:\Users\Usuario\Desktop\Etapa 7(4)\Etapa 1\bin\Debug\Etapa 1.exe.config
+C:\Users\Usuario\Desktop\Etapa 7(4)\Etapa 1\bin\Debug\Etapa 1.exe
+C:\Users\Usuario\Desktop\Etapa 7(4)\Etapa 1\bin\Debug\Etapa 1.pdb
+C:\Users\Usuario\Desktop\Etapa 7(4)\Etapa 1\obj\Debug\Etapa 1.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Etapa 7(4)\Etapa 1\obj\Debug\Etapa_1.ComparacionPuntosMasCercanos.resources
+C:\Users\Usuario\Desktop\Etapa 7(4)\Etapa 1\obj\Debug\Etapa_1.InformacionAnimacion.resources
+C:\Users\Usuario\Desktop\Etapa 7(4)\Etapa 1\obj\Debug\Etapa_1.MainForm.resources
+C:\Users\Usuario\Desktop\Etapa 7(4)\Etapa 1\obj\Debug\Etapa_1.VentanaEtapa4.resources
+C:\Users\Usuario\Desktop\Etapa 7(4)\Etapa 1\obj\Debug\Etapa_1.VentanaMejorAgente.resources
+C:\Users\Usuario\Desktop\Etapa 7(4)\Etapa 1\obj\Debug\Etapa_1.VentanaTiempos.resources
+C:\Users\Usuario\Desktop\Etapa 7(4)\Etapa 1\obj\Debug\Etapa 1.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\Etapa 7(4)\Etapa 1\obj\Debug\Etapa 1.exe
+C:\Users\Usuario\Desktop\Etapa 7(4)\Etapa 1\obj\Debug\Etapa 1.pdb
+C:\Users\Usuario\Desktop\Etapa 7(5)\Etapa 1\bin\Debug\Etapa 1.exe.config
+C:\Users\Usuario\Desktop\Etapa 7(5)\Etapa 1\bin\Debug\Etapa 1.exe
+C:\Users\Usuario\Desktop\Etapa 7(5)\Etapa 1\bin\Debug\Etapa 1.pdb
+C:\Users\Usuario\Desktop\Etapa 7(5)\Etapa 1\obj\Debug\Etapa 1.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Etapa 7(5)\Etapa 1\obj\Debug\Etapa_1.ComparacionPuntosMasCercanos.resources
+C:\Users\Usuario\Desktop\Etapa 7(5)\Etapa 1\obj\Debug\Etapa_1.InformacionAnimacion.resources
+C:\Users\Usuario\Desktop\Etapa 7(5)\Etapa 1\obj\Debug\Etapa_1.MainForm.resources
+C:\Users\Usuario\Desktop\Etapa 7(5)\Etapa 1\obj\Debug\Etapa_1.VentanaEtapa4.resources
+C:\Users\Usuario\Desktop\Etapa 7(5)\Etapa 1\obj\Debug\Etapa_1.VentanaMejorAgente.resources
+C:\Users\Usuario\Desktop\Etapa 7(5)\Etapa 1\obj\Debug\Etapa_1.VentanaTiempos.resources
+C:\Users\Usuario\Desktop\Etapa 7(5)\Etapa 1\obj\Debug\Etapa 1.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\Etapa 7(5)\Etapa 1\obj\Debug\Etapa 1.exe
+C:\Users\Usuario\Desktop\Etapa 7(5)\Etapa 1\obj\Debug\Etapa 1.pdb
+C:\Users\Usuario\Desktop\Etapa 7(6)\Etapa 1\obj\Debug\Etapa 1.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Etapa 7(6)\Etapa 1\obj\Debug\Etapa_1.ComparacionPuntosMasCercanos.resources
+C:\Users\Usuario\Desktop\Etapa 7(6)\Etapa 1\obj\Debug\Etapa_1.InformacionAnimacion.resources
+C:\Users\Usuario\Desktop\Etapa 7(6)\Etapa 1\obj\Debug\Etapa_1.MainForm.resources
+C:\Users\Usuario\Desktop\Etapa 7(6)\Etapa 1\obj\Debug\Etapa_1.VentanaEtapa4.resources
+C:\Users\Usuario\Desktop\Etapa 7(6)\Etapa 1\obj\Debug\Etapa_1.VentanaMejorAgente.resources
+C:\Users\Usuario\Desktop\Etapa 7(6)\Etapa 1\obj\Debug\Etapa_1.VentanaTiempos.resources
+C:\Users\Usuario\Desktop\Etapa 7(6)\Etapa 1\obj\Debug\Etapa 1.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\Etapa 7(6)\Etapa 1\obj\Debug\Etapa 1.exe
+C:\Users\Usuario\Desktop\Etapa 7(6)\Etapa 1\bin\Debug\Etapa 1.exe.config
+C:\Users\Usuario\Desktop\Etapa 7(6)\Etapa 1\bin\Debug\Etapa 1.exe
+C:\Users\Usuario\Desktop\Etapa 7(6)\Etapa 1\bin\Debug\Etapa 1.pdb
+C:\Users\Usuario\Desktop\Etapa 7(6)\Etapa 1\obj\Debug\Etapa 1.pdb
+C:\Users\Usuario\Desktop\Etapa 7(7)\Etapa 1\bin\Debug\Etapa 1.exe.config
+C:\Users\Usuario\Desktop\Etapa 7(7)\Etapa 1\bin\Debug\Etapa 1.exe
+C:\Users\Usuario\Desktop\Etapa 7(7)\Etapa 1\bin\Debug\Etapa 1.pdb
+C:\Users\Usuario\Desktop\Etapa 7(7)\Etapa 1\obj\Debug\Etapa 1.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Etapa 7(7)\Etapa 1\obj\Debug\Etapa_1.ComparacionPuntosMasCercanos.resources
+C:\Users\Usuario\Desktop\Etapa 7(7)\Etapa 1\obj\Debug\Etapa_1.InformacionAnimacion.resources
+C:\Users\Usuario\Desktop\Etapa 7(7)\Etapa 1\obj\Debug\Etapa_1.MainForm.resources
+C:\Users\Usuario\Desktop\Etapa 7(7)\Etapa 1\obj\Debug\Etapa_1.VentanaEtapa4.resources
+C:\Users\Usuario\Desktop\Etapa 7(7)\Etapa 1\obj\Debug\Etapa_1.VentanaMejorAgente.resources
+C:\Users\Usuario\Desktop\Etapa 7(7)\Etapa 1\obj\Debug\Etapa_1.VentanaTiempos.resources
+C:\Users\Usuario\Desktop\Etapa 7(7)\Etapa 1\obj\Debug\Etapa 1.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\Etapa 7(7)\Etapa 1\obj\Debug\Etapa 1.exe
+C:\Users\Usuario\Desktop\Etapa 7(7)\Etapa 1\obj\Debug\Etapa 1.pdb
+C:\Users\Usuario\Desktop\Etapa 7(8)\Etapa 1\bin\Debug\Etapa 1.exe.config
+C:\Users\Usuario\Desktop\Etapa 7(8)\Etapa 1\bin\Debug\Etapa 1.exe
+C:\Users\Usuario\Desktop\Etapa 7(8)\Etapa 1\bin\Debug\Etapa 1.pdb
+C:\Users\Usuario\Desktop\Etapa 7(8)\Etapa 1\obj\Debug\Etapa 1.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Etapa 7(8)\Etapa 1\obj\Debug\Etapa_1.ComparacionPuntosMasCercanos.resources
+C:\Users\Usuario\Desktop\Etapa 7(8)\Etapa 1\obj\Debug\Etapa_1.InformacionAnimacion.resources
+C:\Users\Usuario\Desktop\Etapa 7(8)\Etapa 1\obj\Debug\Etapa_1.MainForm.resources
+C:\Users\Usuario\Desktop\Etapa 7(8)\Etapa 1\obj\Debug\Etapa_1.VentanaEtapa4.resources
+C:\Users\Usuario\Desktop\Etapa 7(8)\Etapa 1\obj\Debug\Etapa_1.VentanaMejorAgente.resources
+C:\Users\Usuario\Desktop\Etapa 7(8)\Etapa 1\obj\Debug\Etapa_1.VentanaTiempos.resources
+C:\Users\Usuario\Desktop\Etapa 7(8)\Etapa 1\obj\Debug\Etapa 1.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\Etapa 7(8)\Etapa 1\obj\Debug\Etapa 1.exe
+C:\Users\Usuario\Desktop\Etapa 7(8)\Etapa 1\obj\Debug\Etapa 1.pdb
+C:\Users\Usuario\Desktop\Etapa 7(9)\Etapa 1\bin\Debug\Etapa 1.exe.config
+C:\Users\Usuario\Desktop\Etapa 7(9)\Etapa 1\bin\Debug\Etapa 1.exe
+C:\Users\Usuario\Desktop\Etapa 7(9)\Etapa 1\bin\Debug\Etapa 1.pdb
+C:\Users\Usuario\Desktop\Etapa 7(9)\Etapa 1\obj\Debug\Etapa 1.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Etapa 7(9)\Etapa 1\obj\Debug\Etapa_1.ComparacionPuntosMasCercanos.resources
+C:\Users\Usuario\Desktop\Etapa 7(9)\Etapa 1\obj\Debug\Etapa_1.InformacionAnimacion.resources
+C:\Users\Usuario\Desktop\Etapa 7(9)\Etapa 1\obj\Debug\Etapa_1.MainForm.resources
+C:\Users\Usuario\Desktop\Etapa 7(9)\Etapa 1\obj\Debug\Etapa_1.VentanaEtapa4.resources
+C:\Users\Usuario\Desktop\Etapa 7(9)\Etapa 1\obj\Debug\Etapa_1.VentanaMejorAgente.resources
+C:\Users\Usuario\Desktop\Etapa 7(9)\Etapa 1\obj\Debug\Etapa_1.VentanaTiempos.resources
+C:\Users\Usuario\Desktop\Etapa 7(9)\Etapa 1\obj\Debug\Etapa 1.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\Etapa 7(9)\Etapa 1\obj\Debug\Etapa 1.exe
+C:\Users\Usuario\Desktop\Etapa 7(9)\Etapa 1\obj\Debug\Etapa 1.pdb
+C:\Users\Usuario\Desktop\Etapa 7(10)\Etapa 1\bin\Debug\Etapa 1.exe.config
+C:\Users\Usuario\Desktop\Etapa 7(10)\Etapa 1\bin\Debug\Etapa 1.exe
+C:\Users\Usuario\Desktop\Etapa 7(10)\Etapa 1\bin\Debug\Etapa 1.pdb
+C:\Users\Usuario\Desktop\Etapa 7(10)\Etapa 1\obj\Debug\Etapa 1.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Etapa 7(10)\Etapa 1\obj\Debug\Etapa_1.ComparacionPuntosMasCercanos.resources
+C:\Users\Usuario\Desktop\Etapa 7(10)\Etapa 1\obj\Debug\Etapa_1.InformacionAnimacion.resources
+C:\Users\Usuario\Desktop\Etapa 7(10)\Etapa 1\obj\Debug\Etapa_1.MainForm.resources
+C:\Users\Usuario\Desktop\Etapa 7(10)\Etapa 1\obj\Debug\Etapa_1.VentanaEtapa4.resources
+C:\Users\Usuario\Desktop\Etapa 7(10)\Etapa 1\obj\Debug\Etapa_1.VentanaMejorAgente.resources
+C:\Users\Usuario\Desktop\Etapa 7(10)\Etapa 1\obj\Debug\Etapa_1.VentanaTiempos.resources
+C:\Users\Usuario\Desktop\Etapa 7(10)\Etapa 1\obj\Debug\Etapa 1.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\Etapa 7(10)\Etapa 1\obj\Debug\Etapa 1.exe
+C:\Users\Usuario\Desktop\Etapa 7(10)\Etapa 1\obj\Debug\Etapa 1.pdb
+C:\Users\Usuario\Desktop\Etapa 7(10) - copia\Etapa 1\bin\Debug\Etapa 1.exe.config
+C:\Users\Usuario\Desktop\Etapa 7(10) - copia\Etapa 1\bin\Debug\Etapa 1.exe
+C:\Users\Usuario\Desktop\Etapa 7(10) - copia\Etapa 1\bin\Debug\Etapa 1.pdb
+C:\Users\Usuario\Desktop\Etapa 7(10) - copia\Etapa 1\obj\Debug\Etapa 1.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Etapa 7(10) - copia\Etapa 1\obj\Debug\Etapa_1.ComparacionPuntosMasCercanos.resources
+C:\Users\Usuario\Desktop\Etapa 7(10) - copia\Etapa 1\obj\Debug\Etapa_1.InformacionAnimacion.resources
+C:\Users\Usuario\Desktop\Etapa 7(10) - copia\Etapa 1\obj\Debug\Etapa_1.MainForm.resources
+C:\Users\Usuario\Desktop\Etapa 7(10) - copia\Etapa 1\obj\Debug\Etapa_1.VentanaEtapa4.resources
+C:\Users\Usuario\Desktop\Etapa 7(10) - copia\Etapa 1\obj\Debug\Etapa_1.VentanaMejorAgente.resources
+C:\Users\Usuario\Desktop\Etapa 7(10) - copia\Etapa 1\obj\Debug\Etapa_1.VentanaTiempos.resources
+C:\Users\Usuario\Desktop\Etapa 7(10) - copia\Etapa 1\obj\Debug\Etapa 1.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\Etapa 7(10) - copia\Etapa 1\obj\Debug\Etapa 1.exe
+C:\Users\Usuario\Desktop\Etapa 7(10) - copia\Etapa 1\obj\Debug\Etapa 1.pdb
+C:\Users\Usuario\Desktop\Etapa 7(11)\Etapa 1\bin\Debug\Etapa 1.exe.config
+C:\Users\Usuario\Desktop\Etapa 7(11)\Etapa 1\bin\Debug\Etapa 1.exe
+C:\Users\Usuario\Desktop\Etapa 7(11)\Etapa 1\bin\Debug\Etapa 1.pdb
+C:\Users\Usuario\Desktop\Etapa 7(11)\Etapa 1\obj\Debug\Etapa 1.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Etapa 7(11)\Etapa 1\obj\Debug\Etapa_1.ComparacionPuntosMasCercanos.resources
+C:\Users\Usuario\Desktop\Etapa 7(11)\Etapa 1\obj\Debug\Etapa_1.InformacionAnimacion.resources
+C:\Users\Usuario\Desktop\Etapa 7(11)\Etapa 1\obj\Debug\Etapa_1.MainForm.resources
+C:\Users\Usuario\Desktop\Etapa 7(11)\Etapa 1\obj\Debug\Etapa_1.VentanaEtapa4.resources
+C:\Users\Usuario\Desktop\Etapa 7(11)\Etapa 1\obj\Debug\Etapa_1.VentanaMejorAgente.resources
+C:\Users\Usuario\Desktop\Etapa 7(11)\Etapa 1\obj\Debug\Etapa_1.VentanaTiempos.resources
+C:\Users\Usuario\Desktop\Etapa 7(11)\Etapa 1\obj\Debug\Etapa 1.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\Etapa 7(11)\Etapa 1\obj\Debug\Etapa 1.exe
+C:\Users\Usuario\Desktop\Etapa 7(11)\Etapa 1\obj\Debug\Etapa 1.pdb
+C:\Users\Usuario\Desktop\Etapa 7(12)\Etapa 1\bin\Debug\Etapa 1.exe.config
+C:\Users\Usuario\Desktop\Etapa 7(12)\Etapa 1\bin\Debug\Etapa 1.exe
+C:\Users\Usuario\Desktop\Etapa 7(12)\Etapa 1\bin\Debug\Etapa 1.pdb
+C:\Users\Usuario\Desktop\Etapa 7(12)\Etapa 1\obj\Debug\Etapa 1.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Etapa 7(12)\Etapa 1\obj\Debug\Etapa_1.ComparacionPuntosMasCercanos.resources
+C:\Users\Usuario\Desktop\Etapa 7(12)\Etapa 1\obj\Debug\Etapa_1.InformacionAnimacion.resources
+C:\Users\Usuario\Desktop\Etapa 7(12)\Etapa 1\obj\Debug\Etapa_1.MainForm.resources
+C:\Users\Usuario\Desktop\Etapa 7(12)\Etapa 1\obj\Debug\Etapa_1.VentanaEtapa4.resources
+C:\Users\Usuario\Desktop\Etapa 7(12)\Etapa 1\obj\Debug\Etapa_1.VentanaMejorAgente.resources
+C:\Users\Usuario\Desktop\Etapa 7(12)\Etapa 1\obj\Debug\Etapa_1.VentanaTiempos.resources
+C:\Users\Usuario\Desktop\Etapa 7(12)\Etapa 1\obj\Debug\Etapa 1.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\Etapa 7(12)\Etapa 1\obj\Debug\Etapa 1.exe
+C:\Users\Usuario\Desktop\Etapa 7(12)\Etapa 1\obj\Debug\Etapa 1.pdb
+C:\Users\Usuario\Desktop\Etapa 7(13)\Etapa 1\bin\Debug\Etapa 1.exe.config
+C:\Users\Usuario\Desktop\Etapa 7(13)\Etapa 1\bin\Debug\Etapa 1.exe
+C:\Users\Usuario\Desktop\Etapa 7(13)\Etapa 1\bin\Debug\Etapa 1.pdb
+C:\Users\Usuario\Desktop\Etapa 7(13)\Etapa 1\obj\Debug\Etapa 1.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Etapa 7(13)\Etapa 1\obj\Debug\Etapa_1.ComparacionPuntosMasCercanos.resources
+C:\Users\Usuario\Desktop\Etapa 7(13)\Etapa 1\obj\Debug\Etapa_1.InformacionAnimacion.resources
+C:\Users\Usuario\Desktop\Etapa 7(13)\Etapa 1\obj\Debug\Etapa_1.MainForm.resources
+C:\Users\Usuario\Desktop\Etapa 7(13)\Etapa 1\obj\Debug\Etapa_1.VentanaEtapa4.resources
+C:\Users\Usuario\Desktop\Etapa 7(13)\Etapa 1\obj\Debug\Etapa_1.VentanaMejorAgente.resources
+C:\Users\Usuario\Desktop\Etapa 7(13)\Etapa 1\obj\Debug\Etapa_1.VentanaTiempos.resources
+C:\Users\Usuario\Desktop\Etapa 7(13)\Etapa 1\obj\Debug\Etapa 1.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\Etapa 7(13)\Etapa 1\obj\Debug\Etapa 1.exe
+C:\Users\Usuario\Desktop\Etapa 7(13)\Etapa 1\obj\Debug\Etapa 1.pdb
+C:\Users\Usuario\Desktop\Etapa 7(16)\Etapa 1\bin\Debug\Etapa 1.exe.config
+C:\Users\Usuario\Desktop\Etapa 7(16)\Etapa 1\bin\Debug\Etapa 1.exe
+C:\Users\Usuario\Desktop\Etapa 7(16)\Etapa 1\bin\Debug\Etapa 1.pdb
+C:\Users\Usuario\Desktop\Etapa 7(16)\Etapa 1\obj\Debug\Etapa 1.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Etapa 7(16)\Etapa 1\obj\Debug\Etapa_1.ComparacionPuntosMasCercanos.resources
+C:\Users\Usuario\Desktop\Etapa 7(16)\Etapa 1\obj\Debug\Etapa_1.InformacionAnimacion.resources
+C:\Users\Usuario\Desktop\Etapa 7(16)\Etapa 1\obj\Debug\Etapa_1.MainForm.resources
+C:\Users\Usuario\Desktop\Etapa 7(16)\Etapa 1\obj\Debug\Etapa_1.VentanaEtapa4.resources
+C:\Users\Usuario\Desktop\Etapa 7(16)\Etapa 1\obj\Debug\Etapa_1.VentanaMejorAgente.resources
+C:\Users\Usuario\Desktop\Etapa 7(16)\Etapa 1\obj\Debug\Etapa_1.VentanaTiempos.resources
+C:\Users\Usuario\Desktop\Etapa 7(16)\Etapa 1\obj\Debug\Etapa 1.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\Etapa 7(16)\Etapa 1\obj\Debug\Etapa 1.exe
+C:\Users\Usuario\Desktop\Etapa 7(16)\Etapa 1\obj\Debug\Etapa 1.pdb
+C:\Users\Usuario\Desktop\Etapa 7(16(Final))\Etapa 1\bin\Debug\Etapa 1.exe.config
+C:\Users\Usuario\Desktop\Etapa 7(16(Final))\Etapa 1\bin\Debug\Etapa 1.exe
+C:\Users\Usuario\Desktop\Etapa 7(16(Final))\Etapa 1\bin\Debug\Etapa 1.pdb
+C:\Users\Usuario\Desktop\Etapa 7(16(Final))\Etapa 1\obj\Debug\Etapa 1.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Etapa 7(16(Final))\Etapa 1\obj\Debug\Etapa_1.ComparacionPuntosMasCercanos.resources
+C:\Users\Usuario\Desktop\Etapa 7(16(Final))\Etapa 1\obj\Debug\Etapa_1.InformacionAnimacion.resources
+C:\Users\Usuario\Desktop\Etapa 7(16(Final))\Etapa 1\obj\Debug\Etapa_1.MainForm.resources
+C:\Users\Usuario\Desktop\Etapa 7(16(Final))\Etapa 1\obj\Debug\Etapa_1.VentanaEtapa4.resources
+C:\Users\Usuario\Desktop\Etapa 7(16(Final))\Etapa 1\obj\Debug\Etapa_1.VentanaMejorAgente.resources
+C:\Users\Usuario\Desktop\Etapa 7(16(Final))\Etapa 1\obj\Debug\Etapa_1.VentanaTiempos.resources
+C:\Users\Usuario\Desktop\Etapa 7(16(Final))\Etapa 1\obj\Debug\Etapa 1.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\Etapa 7(16(Final))\Etapa 1\obj\Debug\Etapa 1.exe
+C:\Users\Usuario\Desktop\Etapa 7(16(Final))\Etapa 1\obj\Debug\Etapa 1.pdb
+C:\Users\Usuario\Desktop\Etapa 7(17\Etapa 1\bin\Debug\Etapa 1.exe.config
+C:\Users\Usuario\Desktop\Etapa 7(17\Etapa 1\bin\Debug\Etapa 1.exe
+C:\Users\Usuario\Desktop\Etapa 7(17\Etapa 1\bin\Debug\Etapa 1.pdb
+C:\Users\Usuario\Desktop\Etapa 7(17\Etapa 1\obj\Debug\Etapa 1.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Etapa 7(17\Etapa 1\obj\Debug\Etapa_1.ComparacionPuntosMasCercanos.resources
+C:\Users\Usuario\Desktop\Etapa 7(17\Etapa 1\obj\Debug\Etapa_1.FloydDijkstra.resources
+C:\Users\Usuario\Desktop\Etapa 7(17\Etapa 1\obj\Debug\Etapa_1.InformacionAnimacion.resources
+C:\Users\Usuario\Desktop\Etapa 7(17\Etapa 1\obj\Debug\Etapa_1.MainForm.resources
+C:\Users\Usuario\Desktop\Etapa 7(17\Etapa 1\obj\Debug\Etapa_1.VentanaEtapa4.resources
+C:\Users\Usuario\Desktop\Etapa 7(17\Etapa 1\obj\Debug\Etapa_1.VentanaMejorAgente.resources
+C:\Users\Usuario\Desktop\Etapa 7(17\Etapa 1\obj\Debug\Etapa_1.VentanaTiempos.resources
+C:\Users\Usuario\Desktop\Etapa 7(17\Etapa 1\obj\Debug\Etapa 1.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\Etapa 7(17\Etapa 1\obj\Debug\Etapa 1.exe
+C:\Users\Usuario\Desktop\Etapa 7(17\Etapa 1\obj\Debug\Etapa 1.pdb
+D:\INFORMATICA\Semestre 1\Seminario de Algoritmia\Etapa 7(17\Etapa 1\bin\Debug\Etapa 1.exe.config
+D:\INFORMATICA\Semestre 1\Seminario de Algoritmia\Etapa 7(17\Etapa 1\bin\Debug\Etapa 1.exe
+D:\INFORMATICA\Semestre 1\Seminario de Algoritmia\Etapa 7(17\Etapa 1\bin\Debug\Etapa 1.pdb
+D:\INFORMATICA\Semestre 1\Seminario de Algoritmia\Etapa 7(17\Etapa 1\obj\Debug\Etapa 1.csprojResolveAssemblyReference.cache
+D:\INFORMATICA\Semestre 1\Seminario de Algoritmia\Etapa 7(17\Etapa 1\obj\Debug\Etapa_1.ComparacionPuntosMasCercanos.resources
+D:\INFORMATICA\Semestre 1\Seminario de Algoritmia\Etapa 7(17\Etapa 1\obj\Debug\Etapa_1.FloydDijkstra.resources
+D:\INFORMATICA\Semestre 1\Seminario de Algoritmia\Etapa 7(17\Etapa 1\obj\Debug\Etapa_1.InformacionAnimacion.resources
+D:\INFORMATICA\Semestre 1\Seminario de Algoritmia\Etapa 7(17\Etapa 1\obj\Debug\Etapa_1.MainForm.resources
+D:\INFORMATICA\Semestre 1\Seminario de Algoritmia\Etapa 7(17\Etapa 1\obj\Debug\Etapa_1.VentanaEtapa4.resources
+D:\INFORMATICA\Semestre 1\Seminario de Algoritmia\Etapa 7(17\Etapa 1\obj\Debug\Etapa_1.VentanaMejorAgente.resources
+D:\INFORMATICA\Semestre 1\Seminario de Algoritmia\Etapa 7(17\Etapa 1\obj\Debug\Etapa_1.VentanaTiempos.resources
+D:\INFORMATICA\Semestre 1\Seminario de Algoritmia\Etapa 7(17\Etapa 1\obj\Debug\Etapa 1.csproj.GenerateResource.Cache
+D:\INFORMATICA\Semestre 1\Seminario de Algoritmia\Etapa 7(17\Etapa 1\obj\Debug\Etapa 1.exe
+D:\INFORMATICA\Semestre 1\Seminario de Algoritmia\Etapa 7(17\Etapa 1\obj\Debug\Etapa 1.pdb

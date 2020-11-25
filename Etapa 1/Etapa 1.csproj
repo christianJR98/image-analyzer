@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" DefaultTargets="Build">
+  <PropertyGroup>
+    <ProjectGuid>{4DB3F223-BF2B-46F9-867E-1BA86782279B}</ProjectGuid>
+    <ProjectTypeGuids>{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Etapa_1</RootNamespace>
+    <AssemblyName>Etapa 1</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Platform)' == 'AnyCPU' ">
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <OutputPath>bin\Debug\</OutputPath>
+    <DebugSymbols>True</DebugSymbols>
+    <DebugType>Full</DebugType>
+    <Optimize>False</Optimize>
+    <CheckForOverflowUnderflow>True</CheckForOverflowUnderflow>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <OutputPath>bin\Release\</OutputPath>
+    <DebugSymbols>False</DebugSymbols>
+    <DebugType>None</DebugType>
+    <Optimize>True</Optimize>
+    <CheckForOverflowUnderflow>False</CheckForOverflowUnderflow>
+    <DefineConstants>TRACE</DefineConstants>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CSharp">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Agente.cs" />
+    <Compile Include="AnalizarColor.cs" />
+    <Compile Include="Circulo.cs" />
+    <Compile Include="ComparacionPuntosMasCercanos.cs" />
+    <Compile Include="ComparacionPuntosMasCercanos.Designer.cs">
+      <DependentUpon>ComparacionPuntosMasCercanos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FloydDijkstra.cs" />
+    <Compile Include="FloydDijkstra.Designer.cs">
+      <DependentUpon>FloydDijkstra.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FuncionesUtiles.cs" />
+    <Compile Include="Graph.cs" />
+    <Compile Include="InformacionAnimacion.cs" />
+    <Compile Include="InformacionAnimacion.Designer.cs">
+      <DependentUpon>InformacionAnimacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Lista.cs" />
+    <Compile Include="MainForm.cs" />
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="VentanaEtapa4.cs" />
+    <Compile Include="VentanaEtapa4.Designer.cs">
+      <DependentUpon>VentanaEtapa4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VentanaMejorAgente.cs" />
+    <Compile Include="VentanaMejorAgente.Designer.cs">
+      <DependentUpon>VentanaMejorAgente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VentanaTiempos.cs" />
+    <Compile Include="VentanaTiempos.Designer.cs">
+      <DependentUpon>VentanaTiempos.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="Etapa 1.sln" />
+    <None Include="Properties\Etapa 1.sln" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="ComparacionPuntosMasCercanos.resx">
+      <DependentUpon>ComparacionPuntosMasCercanos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FloydDijkstra.resx">
+      <DependentUpon>FloydDijkstra.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InformacionAnimacion.resx">
+      <DependentUpon>InformacionAnimacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VentanaEtapa4.resx">
+      <DependentUpon>VentanaEtapa4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VentanaMejorAgente.resx">
+      <DependentUpon>VentanaMejorAgente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VentanaTiempos.resx">
+      <DependentUpon>VentanaTiempos.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
